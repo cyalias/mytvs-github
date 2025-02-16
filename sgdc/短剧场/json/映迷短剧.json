@@ -1,0 +1,21 @@
+{
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.inmi.app",
+                "数组": "list",
+                "标题": "vod_name",
+                "图片": "vod_pic",
+                "副标题": "'✨'+vod_remarks",
+                "链接": "'/video/'+vod_id+'.html'",
+                "线路二次截取": "tab nav-swiper&&</div>",
+                "线路数组": "swiper-slide\">&&</a>",
+                "线路标题": "✨乐哥推荐✨+【共+badge\">&&</+集】",
+                "播放数组": "list-play size\">&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "✨+>&&</",
+                "简介": "✨指间的黑客为您介绍剧情✨+ext cor3\">&&</div>",
+                "分类url": "https://www.inmi.app/index.php/api/vod;post;type=26&page={catePg}&time=时间戳&key=md5(DS时间戳DCC147D11943AF75)&area={area}&class={cateId}&by={by}&lang={lang}&letter={letter}&year={year};;mrcd0",
+                "分类": "KS&DY&都市&古装&重生&逆袭&虐恋&萌宝&言情&穿越&战神&神医&赘婿&甜宠&复仇&强者&悬疑&神豪&其他",
+                "分类值": "*"
+            }

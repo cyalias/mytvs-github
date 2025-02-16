@@ -1,0 +1,19 @@
+﻿{
+				"主页url": "https://oku68.com/",
+				"数组": "<li class=\"col-md-* col-sm-* col-xs-*\"&&</li",
+				"副标题": "class=\"pic-tag pic-tag-b\">&&</span>",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "https://oku68.com/+href=\"&&\"",
+				"简介": "简介：&&<",
+				"线路数组": "<svg class=\"iconm\"&&</div",
+				"线路标题": "💢简影👉+>&&播放列表",
+				"播放数组": "class=\"stui-content__playlist column* clearfix&&</ul",
+				"播放列表": "<li&&</li",
+				"播放标题": ">&&</a",
+				"播放链接": "href=\"&&\"",
+				"分类url": "https://oku68.com/{cateId}_{class}_{year}_{area}__{by}_{catePg}.html",
+				"分类": "电影&电视剧&动漫&综艺",
+				"分类值": "movie&tv&dongman&zongyi",
+				"排序": "最近热映$rankhot#最近上映$ranklatest#最近好评$rankpoint"
+			}

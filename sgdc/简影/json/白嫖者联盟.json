@@ -1,0 +1,13 @@
+﻿{
+				"主页url": "https://www.qyzf88.com/",
+				"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 10; AKA-AL10 Build/HONORAKA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/34.5)",
+				"标题": "itle=\"&&\"",
+				"副标题": "class=\"pic-text text-right\">&&</span>",
+				"图片": "data-original=\"&&\"",
+				"简介": "剧情介绍：&&</div",
+				"搜索url": "https://www.qyzf88.com/qyvodsearch/-------------.html?wd={wd}&submit=",
+				"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大#其他$其他||内地$内地#韩国$韩国#香港$香港#台湾$台湾#日本$日本#美国$美国#泰国$泰国#英国$英国#新加坡$新加坡#其他$其他||内地$内地#港台$港台#日韩$日韩#欧美$欧美||国产$国产#日本$日本#欧美$欧美#其他$其他",
+				"年代": "2009-2024"
+			}

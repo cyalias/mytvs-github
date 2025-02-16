@@ -1,0 +1,13 @@
+﻿ {
+				"主页url": "https://www.jugege.cc/",
+				"数组": "<a&&</a>",
+				"副标题": "module-item-note\">&&</div>",
+				"搜索模式": "1",
+				"搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
+				"图片": "data-original=\"&&\"",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"分类": "更新&热榜&电影&连续剧&综艺&动漫",
+				"分类值": "new&hot&1&2&3&4",
+				"分类url": "https://www.jugege.cc/label/{cateId}.html[https://www.jugege.cc/vodtype/{cateId}.html]"
+			}

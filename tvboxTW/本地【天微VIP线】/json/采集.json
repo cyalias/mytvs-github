@@ -1,0 +1,51 @@
+[
+  {
+    "name": "天微科技",
+    "url": "https://leshiapi.com",
+    "parse_url": "https://leshivideoplayurl.com/?url=",
+    "cate_exclude": "",
+    "api": "/api.php/provide/vod/at/json/"
+  },
+  {
+    "name": "天微科技1",
+    "url": "https://yyff.540734621.xyz",
+    "parse_url": "",
+    "cate_exclude": ""
+  },
+  {
+    "name": "天微科技2",
+    "url": "https://bfzyapi.com",
+    "parse_url": "",
+    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "天微科技3",
+    "url": "http://www.feidaozy.com",
+    "parse_url": "",
+    "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$"
+  },
+  {
+    "name": "天微科技4",
+    "url": "https://www.heimuer.tv",
+    "parse_url": "",
+    "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$"
+  },
+  {
+    "name": "天微科技5",
+    "url": "https://cj.lziapi.com",
+    "parse_url": "",
+    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "天微科技6",
+    "url": "http://cj.ffzyapi.com",
+    "parse_url": "",
+    "cate_exclude": "电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯"
+  },
+  {
+    "name": "天微科技7",
+    "url": "http://caiji.ikum.cc:8099",
+    "parse_url": "",
+    "cate_exclude": ""
+  }
+]

@@ -1,0 +1,19 @@
+﻿{
+				"分类url": "https://bzhanyy.com",
+				"请示头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+				"主页url": "https://bzhanyy.com/",
+				"数组":"movie-list-item&&</a",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"副标题": "movie-rating cor4\"&&</",
+				"链接":"href=\"&&\"",
+				"分类url": "https://bzhanyy.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"搜索url": "/index.php/vod/search.html?wd=我的{wd}",
+
+				"简介": "class=\"summary detailsTxt\"*>&&</div",
+				"筛选": "1",
+				"类型": "1--喜剧$6#爱情$7#恐怖$8#科幻$9#剧情$10#战争$11#犯罪$12#武侠$21#纪录$20#理论片$26||2--国产剧$13#港台剧$14#日韩剧$15#欧美剧$16",
+				"年份": "2000-2024",
+				"排序": "时间$time#人气$hits#评分$score"
+			}

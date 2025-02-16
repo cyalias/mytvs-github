@@ -1,0 +1,6 @@
+[
+{
+"name":"范明电台",
+"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
+}
+]

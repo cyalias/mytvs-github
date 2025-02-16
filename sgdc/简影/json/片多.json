@@ -1,0 +1,12 @@
+ {
+				"搜索url": "https://www.pddotv.com/docz.html?wd={wd}",
+				"线路数组": "class=\"module-tab-item tab-item&&/div>",
+				"线路标题": "💢简影👉+<span>&&</span>+[共+<small>&&</small>+集]",
+				"简介": "<p>&&</p>",
+				"播放数组": "module-play-list-content module-play-list&&</div",
+				"播放列表": "<a&&</a",
+				"播放标题": ">&&</span",
+				"播放链接": "href=\"&&\"",
+				"分类url": "https://www.pddotv.com/dotv/{cateId}.html[https://www.pddotv.com/dotp/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html]",
+				"分类": "电视剧$dianshiju#电影$dianying#动漫$dongmna#综艺$zongyi#记录片$jilupian"
+			}

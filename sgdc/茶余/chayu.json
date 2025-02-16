@@ -1,0 +1,270 @@
+{
+  "spider": "./custom_spider.jar?ref=master;md5;329e914a90b0bb5c7cb69b0eaec19700",
+  "lives": [
+    {
+      "name": "电视┃IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "DouDou",
+      "name": "豆瓣┃评分",
+      "type": 3,
+      "api": "csp_DouDou"
+    },
+    {
+      "key": "Djtt",
+      "name": "无忧┃短剧",
+      "type": 3,
+      "api": "csp_Djtt"
+    },
+    {
+      "key": "Jpys",
+      "name": "金牌┃秒播",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+    {
+      "key": "LiteApple",
+      "name": "苹果┃复活",
+      "type": 3,
+      "api": "csp_LiteApple"
+    },
+    {
+      "key": "NewCz",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "csp_NewCz",
+      "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "NanGua",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua"
+    },
+    {
+      "key": "YCyz",
+      "name": "原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
+      "key": "热播",
+      "name": "热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "Kekys",
+      "name": "可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys"
+    },
+    {
+      "key": "腐剧",
+      "name": "腐剧┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "暴风",
+      "name": "暴风┃YsV2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "Appxd",
+      "name": "兄弟┃多线",
+      "type": 3,
+      "api": "csp_Appxd",
+      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+    },
+    {
+      "key": "Kkys",
+      "name": "酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys"
+    },
+    {
+      "key": "DiDuan",
+      "name": "低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk"
+    },
+    {
+      "key": "zxzj",
+      "name": "在线┃之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "Auete",
+      "name": "奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "Libvio",
+      "name": "立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "SixV",
+      "name": "SixV┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "WoGG",
+      "name": "玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://wogg.xxooo.cf/",
+        "danMu": "关"
+      }
+    },
+    {
+      "key": "Dm84",
+      "name": "动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84"
+    },
+    {
+      "key": "Ysj",
+      "name": "异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj"
+    },
+    {
+      "key": "Anime",
+      "name": "花子┃动漫",
+      "type": 3,
+      "api": "csp_Anime1"
+    },
+    {
+      "key": "Yj1211",
+      "name": "竞技┃直播",
+      "type": 3,
+      "api": "csp_Yj1211"
+    },
+    {
+      "key": "YGP",
+      "name": "叨观┃荐影",
+      "type": 3,
+      "api": "csp_YGP"
+    },
+    {
+      "key": "Aid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "MIPanSo",
+      "name": "米搜┃搜索",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "KkSs",
+      "name": "抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "QuarkPanso",
+      "name": "夸搜┃夸父",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YiSo",
+      "name": "易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSou",
+      "name": "盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSearch",
+      "name": "盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "ext": {
+        "Cloud-drive": "TVRule/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "timeout": 60
+    }
+  ]
+}

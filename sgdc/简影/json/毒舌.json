@@ -1,0 +1,21 @@
+﻿{
+  "主页url": "https://www.dushe1.app",
+  "数组": "class=\"module-item\">&&v-item-footer",
+  "图片": "https+://vres.jxlfl.cn/vod1/+data-original=\"/vod1/&&\"",
+  "标题": "title=\"&&\"",
+  "副标题": "可可影视提供</span>&&</span>",
+  "简介": "<p>&&</p>",
+  "链接": "href=\"&&\"",
+  "线路数组": " class=\"swiper-slide source-swiper-slide*\">&&</div",
+  "线路标题": "💢简影👉+class=\"source-item-label\" id*>&&</span",
+  "搜索url": "https://www.dushe1.app/search?k={wd}",
+  "搜索二次截取": "class=\"search-result-list fs-margin-section\"&&pagenation-box fs-margin-section",
+  "搜索数组": "<a&&</a",
+  "搜索图片": "https+://vres.jxlfl.cn/vod1/+data-original=\"/vod1/&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索简介": "class=\"desc\">&&</div>",
+  "搜索链接": "href=\"&&\"",
+  "分类url": "https://www.dushe1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+  "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+  "排序": "综合$1#最新$2#最热$3#评分$4"
+}

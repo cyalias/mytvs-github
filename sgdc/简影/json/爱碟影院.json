@@ -1,0 +1,8 @@
+﻿{
+				"搜索url": "https://www.diemi.cc/search/?wd={wd}",
+				"搜索链接": "href=\"&&\"",
+				"分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+				"分类": "电影&电视剧&动漫&综艺",
+				"分类值": "xiju&dianshiju&dongman&zongyi",
+				"类型": "动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing||国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju||空||空"
+			}

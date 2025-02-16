@@ -1,0 +1,40 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
+        "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "正式版",
+    "list": [
+      {
+        "name": "春盈天下影院",
+        "url": "https://dl-v1.feejii.com/202403091046/8e5d75d840a3c242342e423e95138468/storage/files/2024/03/05/2/226002/17096031415341.gz?%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B0404%E5%85%B1%E5%AD%98%E8%83%8C%E6%99%AF%E7%89%88.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "影院下载"
+      },
+      {
+        "name": "春盈天下电视",
+        "url": "https://dl-v1.feejii.com/202403091047/5a77f4c5e65043a01796b2e9f3f9d206/storage/files/2024/01/03/2/226002/1704271073709000000000.gz?%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD0103.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "电视下载"
+      }
+    ]
+  },
+
+  {
+    "name": "备用测试",
+    "list": [
+      {
+        "name": "备用",
+        "url": "空白测试",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  }
+]

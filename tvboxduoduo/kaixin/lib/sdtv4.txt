@@ -1,0 +1,6 @@
+[
+{
+"name":"晴天线路",
+"url":"https://7220.kstore.space/晴天.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
+}
+]

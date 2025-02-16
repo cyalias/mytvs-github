@@ -1,0 +1,17 @@
+{
+				"请求头": "手机",
+				"数组": "<div class=\"module-item&&</div></div>",
+				"图片": "data-src=\"&&\"",
+				"链接": "href=\"&&\"",
+				"标题": "alt=\"&&\"",
+				"副标题": "<div class=\"module-item-text\"&&<",
+				"搜索url": "https://sc1080.top/index.php/vod/search.html?wd={wd}",
+				"搜索数组": "class=\"module-search-item\"&&</div></div>",
+				"搜索图片": "data-src=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索标题": "alt=\"&&\"",
+				"播放请求头": "手机",
+				"嗅探词": ".m3u8#index.m3u8#mixed.m3u8",
+				"分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;k",
+				"分类": "电影$1#剧集$2#综艺$3#动漫$4#Nefix$20#纪录片$5#短剧$21"
+			}

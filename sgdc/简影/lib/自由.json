@@ -1,0 +1,9 @@
+﻿{
+				"主页url": "https://www.freeys.cc",
+				"数组": "class=\"hl-list-item hl-col-xs-* hl-col-sm-* hl-col-md-* hl-col-lg-*\">&&</li",
+				"副标题": "class=\"state\">&&</span>+class=\"hl-lc-1 remarks\"&&</",
+				"简介": "class=\"hl-content-text\"><em>&&</em>",
+				"分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#短剧$duanju",
+				"搜索url": "https://www.freeys.cc/vodsearch/-------------/?wd={wd}&submit=",
+				"分类url": "https://www.freeys.cc/vodtype/{cateId}-{catePg}/[https://www.freeys.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/index.html]"
+			}

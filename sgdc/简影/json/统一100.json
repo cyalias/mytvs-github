@@ -1,0 +1,32 @@
+{
+			"站名": "统一100",
+			"请求头":"User-Agent$Mozilla/5.0 (Linux; U; Android 2.3; en-us) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9",
+			"嗅探词": ".m3u8",
+			"主页url": "https://ty1010.com",
+			"数组": "<div class=\"public-list-box public-pic&&public-list-subtitle cor5 hide ft2",
+			"图片": "data-src=\"&&\"",
+			"标题": "alt=\"&&\"[替换:封面图>>空]",
+			"副标题": "public-list-prb hide ft2\">&&</s",
+			"搜索模式": "1",
+			"搜索url": "/index.php/vod/search.html?wd={wd}",
+			"搜索数组": "class=\"search-box flex rel\"&&thumb-s collection fa ds-shoucang",
+			"搜索图片": "data-src=\"&&\"",
+			"搜索标题": "alt=\"&&\"",
+			"搜索副标题": "public-list-prb hide ft2\">&&</s",
+			"搜索链接": "href=\"&&\"",
+			"简介": "class=\"text cor3\"&&</div>",
+			"影片地区": "上映：</span>&&</div",
+			"影片类型": "",
+			"影片状态": "集数：</span>&&</div",
+			"导演": "导演：</span>&&</div",
+			"主演": "主演：</span>&&</div",
+			"线路数组": "<a class=\"swiper-slide&&</a",
+			"线路标题": "</i>&nbsp;&&<s",
+			"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")",
+			"分类url": "/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;k",
+			"分类": "电影&剧集&综艺&动漫&短剧",
+			"分类值": "2&1&4&3&41"
+		}
+		
+		
+		

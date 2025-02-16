@@ -1,0 +1,10 @@
+{
+				"搜索url": "http://yjsp.mxys8.com/index.php/vod/search.html?wd={wd}&submit=",
+				"影片类型": "类型：&&</li>",
+				"简介": "简介：&&</div>",
+				"线路名二次截取": "tabs swiper-wrapper clearfix&&</div",
+				"线路数组": "<a&&</a",
+				"线路标题": "💢简影👉+alt=\"&&\"",
+				"分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+			}

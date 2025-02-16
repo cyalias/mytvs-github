@@ -1,0 +1,11 @@
+{
+	"主页url": "https://bowang.su",
+	"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+	"线路数组": "class=\"module-tab-item tab-item&&/div>",
+	"线路标题": "+<span>&&</span>+[共+<small>&&</small>+集]",
+	"分类url": "/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+	"播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+	"分类": "电影$1#剧集$2#综艺$4#动漫$3",
+	"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#记录片$20||大陆剧$13#港剧$14#台剧$15#日剧$16#韩剧$21#美剧$22#海外剧$23||空||空",
+	"地区": "大陸$大陸#香港$香港#台灣$台灣#美威$美威#法國$法國#英國$英國#日本$日本#韓國$韓國#德威$德威#泰國$泰國#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大#其他$其他"
+}

@@ -1,0 +1,18 @@
+﻿{
+				"数组": "myui-vodlist__box&&</a",
+				"副标题": "pic-text text-right\">&&</span",
+				"线路数组": "<li><a href=\"\\#playlist&&</li",
+				"线路标题": "💢简影👉+>&&</a",
+				"播放数组": "myui-content__list sort-list clearfix&&</ul",
+				"播放列表": "<li&&</li",
+				"播放标题": "title=\"&&\"",
+				"播放链接": "href=\"&&\"",
+				"跳转播放链接": "var now=\"&&\"",
+				"搜索数组": "lazyload\"&&</a",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+				"分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+			}

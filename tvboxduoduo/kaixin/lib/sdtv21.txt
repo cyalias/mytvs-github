@@ -1,0 +1,6 @@
+[
+{
+"name":"综合线路",
+"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
+}
+]

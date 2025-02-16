@@ -1,0 +1,9 @@
+应用多多最新在线接口：
+
+1、多仓线路：
+https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main
+2、多线路：
+https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
+
+
+接口地址请全部复制，包含链接末尾的“?ref=main”。

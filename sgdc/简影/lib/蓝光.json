@@ -1,0 +1,12 @@
+﻿{
+				"主页url": "https://www.languang.pro/",
+				"二次截取": "<ul class=\"hl-vod-list clearfix\"&&</ul",
+				"数组": "hl-list-item hl-col-xs-* hl-col-sm-* hl-col-md-* hl-col-lg-*&&</li",
+				"标题": "title=\"&&\"",
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
+				"线路标题": "💢简影👉+alt=\"&&\"",
+				"分类url": "https://www.languang.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+				"分类": "电影$1#连续剧$2#动漫$20"
+			}

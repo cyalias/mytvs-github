@@ -1,0 +1,13 @@
+﻿ {
+            "key": "农珉",
+            "name": "拾光☪农珉",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+            "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+           "搜索url": "/search.php;post;searchword={wd}",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "拾光专线",
+                "分类": "电影$5#国产剧$12#短剧$26#动漫$4#综艺$3",
+                "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-{lang}-.html;;rcm0"}},

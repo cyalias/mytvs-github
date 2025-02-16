@@ -1,0 +1,16 @@
+{
+"主页url": "https://4k4k.live",        
+		"简介": "<p>&&</p>",
+    "搜索url": "https://4k4k.live/vodsearch/-------------.html?wd={wd}",    
+		"线路数组": "<div class=\"module-tab-item tab-item&&</div>",
+
+		"线路标题": "span>&&</span+(共+small>&&</small+集)",
+     "播放数组": "<div class=\"module-play-list&&</div>",
+    "播放列表": "<a&&</a",
+    "播放标题": ">&&</span",
+    "播放链接":"href=\"&&\"",
+    "嗅探词": "mixed.m3u8#index.m3u8",
+    "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;a",
+    "分类": "电影&电视剧&动漫&综艺",
+    "分类值": "1&2&4&3"
+}

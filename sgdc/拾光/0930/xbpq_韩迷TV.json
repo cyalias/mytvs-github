@@ -1,0 +1,49 @@
+{
+"作者": "小可乐/2409/第一版",
+"站名": "韩迷TV",
+"请求头": "User-Agent$MOBILE_UA",
+"编码": "UTF-8",
+"图片代理": "0",
+
+"主页url": "https://www.hmtv8.cc",
+"首页": "120",
+"起始页": "1",
+"分类url": "/{cateId}/page/{catePg};;mrcd0",
+"分类": "韩影&韩剧&韩综&更新",
+"分类值": "dianying&hanju&zongyi&new",
+
+"二次截取": "默认--m-movies clearfix\">&&\"pagination||首页--m-movies clearfix\">&&\"sidebar||搜索--m-movies clearfix\">&&\"pagination",
+"数组": "默认--<article&&</article>||搜索--<article&&</article>",
+"标题": "<h2>&&</h2>",
+"图片": "data-original=\"&&\"",
+"副标题": "pingfen\">&&</span>+zhuangtai\">&&</span>",
+"链接": "href=\"&&\"",
+
+"影片年代": "首播:</strong> &&-",
+"影片地区": "国家/地区:&&<strong>",
+"影片类型": "类型:&&<strong>",
+"状态": "首播:&&)",
+"导演": "导演:&&<strong>",
+"主演": "主演:&&<strong>",
+"简介": "jianjie\">&&</span>",
+
+"线路数组": "<strong>&&</strong>",
+"线路标题": "👶韩迷TV",
+"跳转数组": "vlink*>&&</a>",
+"跳转链接": "href=\"&&\"",
+"播放数组": "tab\"&&</section>",         
+"播放列表": "<a&&/a>",
+"播放标题": ">&&<",
+"播放链接": "href=\"&&\"",
+
+"直接播放": "0",
+"嗅探词": ".mp4#.m3u8",
+"跳转播放链接": "vid=\"&&\"",
+
+"搜索请求头": "User-Agent$MOBILE_UA",
+"搜索url": "/page/{pg}?s={wd}",
+"搜索模式": "1",
+
+"筛选": "1",
+"类型": "空||剧情$hanju/juqingju#动作$hanju/dongzuoju#古装$hanju/guzhuangju#喜剧$hanju/xiju#奇幻$hanju/qihuanju#悬疑$hanju/xuanyiju#爱情$hanju/aiqingju#惊悚$hanju/jingsongju#犯罪$hanju/fanzuiju||空||空"
+}

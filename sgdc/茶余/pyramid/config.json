@@ -1,0 +1,27 @@
+{
+ "spider": "",
+ "sites": [
+  {
+   "key": "py_bilibilivd",
+   "name": "哔哩哔哩",
+   "type": 3,
+   "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/pyramid/py_bilibilivd.py?ref=master",
+   "ext": {
+    "categories": "电影#电视剧#纪录片#探索发现#歌曲#演唱会#旅游#相声小品#解说#戏曲#美食#食谱#太极拳#广场舞#动物世界",
+    "cookie": "buvid3=8802E18A-D264-86E5-AFF0-C0433CEE538C23554infoc; b_nut=1699437423; i-wanna-go-back=-1; b_ut=7; _uuid=4108C43C8-76109-3965-D722-3D66BFDA6A9723352infoc; enable_web_push=DISABLE; home_feed_column=4; buvid4=E816483F-D840-E3B3-ADFE-1028047ED01224630-023110817-koK1ZDXS1BaozD5w6heZmw%3D%3D; CURRENT_FNVAL=4048; rpdid=|(km)uRJJR0J'uYmmRJ~RJu; header_theme_version=CLOSE; browser_resolution=1318-620; FEED_LIVE_VERSION=V8; DedeUserID=29803158; DedeUserID__ckMd5=1a97fc9755184b19; CURRENT_QUALITY=80; PVID=1; fingerprint=fe644e96cd04c5b80904497f2c36b9db; buvid_fp_plain=undefined; buvid_fp=fe644e96cd04c5b80904497f2c36b9db; b_lsid=D67F10589_190A50A348B; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjEwMTUwNDIsImlhdCI6MTcyMDc1NTc4MiwicGx0IjotMX0.DjaM1oc6RXS9n5yczSTLeQA4MMsITqrUcUMR7UMM9H0; bili_ticket_expires=1721014982; SESSDATA=ad4c90a3%2C1736307848%2C3639c%2A72CjBgausu-VVRVSc3BGbZj-eSSUvxHhwL1DIUszq7_4Ou-Nl8Kusd-Y699PrJv4I96tISVnhheVgxQTE3Mm9sY0VXQ3lYeEFoQzk3VWszVjQ1dzRqbGtFMWh2dE5OSFRSUEM3MlBDTVN4dHM0N0QyUlIyQmhDSzdSQTlpWHd3WE1PUzVHczg1cFhnIIEC; bili_jct=2f0025c3522ab62120478ebf86b9545e; sid=h1p14fl4"
+   }
+  },
+  {
+   "key": "py_emby",
+   "name": "EMBY",
+   "type": 3,
+   "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/pyramid/py_emby.py?ref=master",
+   "ext": {
+    "server": "https://emby-micax-ca-v2.mius.uk:8443",
+    "username": "victor",
+    "password": "uVstOJGK",
+    "thread": 0 //thread 大于0开启多线程，thread为线程数
+   }
+  }
+ ]
+}

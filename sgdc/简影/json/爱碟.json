@@ -1,0 +1,14 @@
+ {
+				"主页url":"https://www.iidie.com",
+				"请求头":"User-Agent$Mozilla/5.0 (Linux; U; Android 2.3; en-us) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9",
+				"简介":"id=\"jq-jieshao\">&&播放语言",
+				"线路数组": "<h2 class=\"tit*\">&&</div",
+				"线路标题": "💢简影👉+>&&</h2",
+				"搜索url": "/search/?wd={wd}",
+				"搜索链接": "href=\"&&\"",
+				"跳转播放链接":"<iframe*src=\"**\"",
+				"分类url": "/type-{cateId}-{catePg}/",
+				"分类": "电影&电视剧&动漫&综艺",
+				"分类值": "dianying&dianshiju&dongman&zongyi",
+				"类型": "动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing||国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju||空||空"
+			}

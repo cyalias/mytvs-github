@@ -1,0 +1,27 @@
+{
+			"主页url": "https://tdgo.shop",
+			"数组": "<a&&module-poster-item-title",
+			"图片": "data-original=\"&&\"",
+			"标题": "title=\"&&\"",
+			"副标题": "module-item-note\"&&</div",
+			"链接": "href=\"&&\"",
+			"搜索模式": "1",
+			"搜索url": "/vod/search/page/{catePg}/wd/{wd}.html",
+			"搜索二次截取": "",
+			"搜索数组": "module-card-item module-item&&详情",
+			"搜索图片": "data-original=\"&&\"",
+			"搜索标题": "alt=\"&&\"",
+			"搜索副标题": "module-item-note\"&&</div",
+			"搜索链接": "href=\"&&\"",
+			"简介": "<p>&&</p>",
+			"线路数组": "class=\"module-tab-item tab-item&&/div>",
+			"线路标题": "💢简影👉+<span>&&</span>+[共+<small>&&</small>+集]",
+			"播放数组": "module-play-list-content  module-play-list-base&&</div",
+			"播放列表": "<a&&</a",
+			"播放标题": ">&&</s",
+			"播放链接": "href=\"&&\"",
+			"分类url": "/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;k",
+			"分类": "电影&剧集&综艺&动漫&短剧",
+			"分类值": "20&21&23&22&24"
+
+		}

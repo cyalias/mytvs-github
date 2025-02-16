@@ -1,0 +1,18 @@
+{
+        "站名": "免费看影视",
+        "作者": "yydf",
+        "主页url": "https://qzy998-1.ysgq.xyz",
+        "简介": "<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
+        "搜索url": "/index.php/vod/search.html?wd={wd}",
+        "数组": "<div class=\"pack-packcover returl list-top-b\">&&</div",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "<span class=\"pack-prb hidden\">&&</span>",
+        "线路数组": "<a class=\"channelname swiper-slide&&</a>",
+        "线路名称": "</i>&nbsp;&&</span>",
+        "播放数组": "<ul class=\"content_playlist cf\">&&</ul>",
+        "播放列表": ">&&</a",
+        "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
+      }

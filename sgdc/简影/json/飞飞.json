@@ -1,0 +1,12 @@
+﻿{
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "💢简影👉+<span>&&</small>[替换:</span><small>>>共]+集",
+		"嗅探词": ".m3u8#.mp4#.flv",
+        "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",		
+        "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25",
+		"地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+		"类型":"动作片$26#喜剧片$27#爱情片$28#科幻片$29#恐怖片$30#剧情片$31#战争片$32#动画片$33||国产剧$34#港台剧$35#日韩剧$36#欧美剧$37#泰国剧$38||空||空||空||空"
+      }

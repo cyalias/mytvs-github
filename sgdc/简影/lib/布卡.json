@@ -1,0 +1,21 @@
+{
+                "主页url": "https://www.gtrgt.com/vodtype/dy.html",               
+				"数组": "ol-xs-* col-md-* col-lg&&</li",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"副标题": "item-status text-overflow\"&&</p",
+				"链接": "href=\"&&\"",	
+				"搜索url":"https://www.bk-yy.com/vodsearch/-------------.html?wd={wd}",				
+				"搜索数组": "ol-xs-* col-md-* col-lg&&</li",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索副标题": "item-status text-overflow\"&&</p",
+				"搜索链接": "href=\"&&\"",
+				"线路二次截取":"<ul class=\"swiper-wrapper\"&&</ul",
+				"线路数组":"<li&&</li",				
+                "线路标题": "💢简影👉+>&&-（布卡影院：bk-yy.com）<em",
+                "播放列表": "col-xs-* col-sm-* col-md-* ewave-playlist-item&&</li",
+                "播放标题": ">&&</a",
+				"分类url": "https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$dy#电视剧$dsj#短剧$duanju"				
+            }

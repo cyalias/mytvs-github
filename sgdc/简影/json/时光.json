@@ -1,0 +1,12 @@
+﻿{
+				"主页url": "https://sgdyw.vip",
+				"数组": "<div class=\"module-item\"&&</div",
+				"标题": "title=\"&&\"",
+				"图片": "data-src=\"&&\"",
+				"副标题": ">&&</div></div",
+				"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+				"搜索url": "https://sgdyw.vip/vodsearch/-------------.html?wd={wd}",
+				"分类url": "https://sgdyw.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+				"排序": "时间排序$time#人气排序$hits#评分排序$score#",
+				"筛选": "1"
+			}

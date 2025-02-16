@@ -1,0 +1,10 @@
+﻿{
+				"数组": "<li class=\"col-md-* col-sm-* col-xs&&</li",
+				"副标题": "class=\"note text-bg-*\"&&</span",
+				"简介": "详细介绍：&&<a",
+				"分类url": "https://www.wuji100.com/{cateId}/index___{year}__{by}.html",
+				"分类": "电视剧&电影&综艺&动漫",
+				"分类值": "dianshiju&dianying&zongyi&dongman",
+				"类型": "国产剧$guocanju#香港剧$xianggangju#欧美剧$oumeiju#日本剧$ribenju#海外剧$haiwaiju#台湾剧$taiwanju#韩国剧$hanguoju#泰国剧$taiguoju#奇幻片$qihuanpian#犯罪片$fanzuipian#悬疑片$xuanyipian||动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian||空||空",
+				"排序": "时间$addtime#人气$hits#评分$gold"
+			}

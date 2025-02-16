@@ -1,0 +1,13 @@
+﻿{
+				"主页url": "https://timm.live",
+				"搜索url": "https://timm.live/vodsearch/-------------.html?wd={wd}",
+				"线路数组": "class=\"play-tab*\" data-id=*>&&</span",
+				"线路标题": "💢简影👉+>&&</a",
+				"简介": "class=\"mt20 f14\">&&</p",
+				"分类url": "https://timm.live/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+				"类型": "2--国产剧$guochanju#港澳剧$gangaoju#台湾剧$taiwanju#韩剧$hanju#美剧$meiju#纪录片$jilupian#日本剧$ribenju#海外剧$haiwaiju#泰剧$taiju||1--动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#悬疑片$xuanyipian#战争片$zhanzhengpian#犯罪片$fanzuipian#短片$duanpian||3--大陆综艺$daluzongyi#日韩综艺$rihanzongyi#港台综艺$gangtaizongyi#欧美综艺$oumeizongyi||4--国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#动画片$donghuapian||5--短剧$duanju",
+				"地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大#俄罗斯$俄罗斯",
+				"年份": "1990-2024",
+				"筛选": "1"
+			}

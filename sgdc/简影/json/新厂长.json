@@ -1,0 +1,23 @@
+{
+	  "主页url":"https://www.czzyvideo.com",
+		"分类url": "https://www.czzyvideo.com/movie_bt/{year}/{class}/movie_bt_series/{cateId}/page/{catePg};;k",
+		   "搜索url":"https://www.czzyvideo.com/daoyongjiek0shibushiyoubing?q={wd}",
+		"起始页":"1",
+		"二次截取":"<ul>&&<ul",
+		"数组":"<li&&</li",
+		"图片": "data-original=\"&&\"",
+		"标题": "alt=\"&&\"[不包含:厂长资源]",
+		"副标题": "class=\"jidi\"&&</s",
+		"链接": "href=\"&&\"",
+		"简介":"class=\"yp_context\"&&</p",
+		"线路标题":"厂长直链",		
+		"播放数组":"class=\"paly_list_btn\"&&</div",
+		"播放列表":"<a&&</a",
+		"播放标题":">&&</a",
+		"播放链接":"href=\"&&\"",
+		"嗅探词":".m3u8#.mp4#.flv",
+		"分类":"电影$dyy#电视剧$dianshiju#动画$dohua#站长推荐$zhanchangtuijian",
+		"类型":"俄罗斯电影$eluosidianying#加拿大电影$jianadadianying#华语电影$huayudianying#印度电影$yindudianying#日本电影$ribendianying#欧美电影$meiguodianying#韩国电影$hanguodianying||国产剧$guochanju#日剧$rj#海外剧(其他)$hwj#美剧$mj#韩剧$hj||空||空",
+"年份":"1900~2000年代$year/19002000nd#2001~2010年代$year/20012010nd#2011$year/2011#2012$year/2012#2013$year/2013#2014$year/2014#2015$year/2015#2016$year/2016#2017$year/2017#2018$year/2018#2019$year/2019#2020$year/2020#2021$year/2021#2022$year/2022#2023$year/2023#2024$year/2024#2025$year/2025#2026$year/2026#2028$year/2028",
+"剧情":"传记$movie_bt_tags/chuanji#儿童$movie_bt_tags/etet#冒险$movie_bt_tags/maoxian#剧情$movie_bt_tags/juqing#动作$movie_bt_tags/dozuo#动漫$movie_bt_tags/doman#动画$movie_bt_tags/dhh#历史$movie_bt_tags/lishi#古装$movie_bt_tags/guzhuang#同性$movie_bt_tags/tongxing#喜剧$movie_bt_tags/xiju#奇幻$movie_bt_tags/qihuan#家庭$movie_bt_tags/jiating#恐怖$movie_bt_tags/kubu#悬疑$movie_bt_tags/xuanyi#情色$movie_bt_tags/qingse#惊悚$movie_bt_tags/kingsong#战争$movie_bt_tags/zhanzheng#歌舞$movie_bt_tags/gw#武侠$movie_bt_tags/wuxia#灾难$movie_bt_tags/zainan#爱情$movie_bt_tags/aiqing#犯罪$movie_bt_tags/fanzui#真人秀$movie_bt_tags/zrx#短片$movie_bt_tags/dp#科幻$movie_bt_tags/kh#纪录片$movie_bt_tags/jlpp#西部$movie_bt_tags/xb#运动$movie_bt_tags/yd#音乐$movie_bt_tags/yy#鬼怪$movie_bt_tags/鬼怪"
+	}

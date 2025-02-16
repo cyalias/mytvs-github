@@ -1,0 +1,38 @@
+{
+"作者": "人民艺术家",
+"站名": "猛男",
+"请求头": "User-Agent$MOBILE_UA#Cookie$c6s_RobotVerify=1；； gg_iscookie=1；； c6s_uv=eef0ff0985c46625ac64d06e43fa04f8；； gg_show_number3644=4",
+"编码": "UTF-8",
+"图片代理": "0",
+
+"主页url": "https://xn--ieu270c.mnrj0z53.xyz",
+"首页": "120",
+"起始页": "1",
+"分类url": "/index.php?m=vod-type-id-{cateId}-pg-{catePg}.htm;;mr",
+"分类二次截取": "navigation\">&&</ul>",
+"分类数组": "<a&&/a>",
+"分类标题": ">&&<",
+"分类ID": "id-&&.",
+
+"数组": "默认--gal\">&&</a>||搜索--gal\">&&</a>",
+"标题": "alt=\"&&\"",
+"图片": "original=\"&&\"",
+"副标题": "la-eye\">&&</span>",
+"链接": "href=\"&&\"",
+
+"影片年代": "la-calendar-o\">&&-",
+"影片地区": "未提供",
+"影片类型": "Tags:&&</p>",
+"状态": "la-calendar-o\">&&</div>",
+"导演": "老司机",
+"主演": "形体艺术家",
+"简介": "<title>&&</title>",
+
+"直接播放": "1",
+"嗅探词": ".mp4#.m3u8",
+"跳转播放链接": "HlsJsPlayer*url\": \"&&\"",
+
+"搜索请求头": "User-Agent$MOBILE_UA#Cookie$c6s_RobotVerify=1；； gg_iscookie=1；； c6s_uv=eef0ff0985c46625ac64d06e43fa04f8；； gg_show_number3644=4",
+"搜索url": "/index.php?m=vod-search-wd-{wd}-pg-{pg}.htm",
+"搜索模式": "1"
+}

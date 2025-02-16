@@ -1,0 +1,65 @@
+{
+  "classes": [
+    {
+	  "type_name": "中医药",
+      "type_id": "中医药"
+    },
+    {
+      "type_name": "中医基础",
+      "type_id": "中医基础"
+    },
+    {
+      "type_name": "中药基础",
+      "type_id": "中药基础"
+    },
+    {
+      "type_name": "伤寒论",
+      "type_id": "伤寒论"
+    },
+    {
+      "type_name": "难论",
+      "type_id": "难论"
+    },
+   {
+      "type_name": "神农本草经",
+      "type_id": "神农本草经"
+    },
+    
+    {
+      "type_name": "金匮要略",
+      "type_id": "金匮要略"
+    },
+ {
+      "type_name": "脉经",
+      "type_id": "脉经"
+    },
+     {
+      "type_name": "中藏经",
+      "type_id": "中藏经"
+    },
+    
+    {
+      "type_name": "针灸甲乙经",
+      "type_id": "针灸甲乙经"
+    },
+ {
+      "type_name": "濒湖脉学",
+      "type_id": "濒湖脉学"
+    },
+
+     {
+      "type_name": "本草纲目",
+      "type_id": "本草纲目"
+    },
+    
+    {
+      "type_name": "汤头歌诀",
+      "type_id": "汤头歌诀"
+    },
+ {
+      "type_name": "药性赋",
+      "type_id": "药性赋"
+    }
+  ],
+ "cookie": "buvid3=F392F2AD-7D2E-27B4-D950-6A0450DB9E8C48535infoc; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; b_lsid=3795101010F_18DA3F7E814; _uuid=E4F41EE1-3766-C93C-BB4D-F7B2929474BA49551infoc; buvid4=383A407B-EDFA-D8DA-DFE6-F277DB9A2A4149689-124021319-o+0zHnNZMXJOjYKtADJ+SQ%3D%3D; buvid_fp=2199d42ba1c9e6e9c7bf4775b77d7c78; b_nut=100; rpdid=|(J|YulkmkJJ0J'u~|~)lkmYk; SESSDATA=91e1dc08%2C1723405187%2C7d4b1%2A22CjCGSSL9FAO8DbTaaA-l53QHqB6Of61er3FsVtvr7eqG5cI881iTmU2oupDhzFGV98ASVmlTeFYtanpESzVMcTBjWmlCZ3hSUDRTbkhaQ2g1TGMxUFlMRUpmMW5qdTUzenN5ZU1vRi1rb1FnRnpKUUt0SjFVS1VCVjZSenJ1NTh1UGxubXgyQnBBIIEC; bili_jct=7ba4ebbe6a9f2c498b3d6682dbc7f933; DedeUserID=662660846; DedeUserID__ckMd5=bc5266c1e183ce79; sid=66osi14f"  
+}

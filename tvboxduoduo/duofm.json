@@ -1,0 +1,76 @@
+{
+  "urls": [
+     {
+      "url": "file://tvbox/wangpan/wangpan.json",
+      "name": "🚀①网盘线路"
+    },
+     {
+      "url": "file://tvbox/One/One.json",
+      "name": "🚀②One线路"
+    },		
+     {
+      "url": "file://tvbox/PG/PG.json",
+      "name": "🚀③PG线路"
+    },
+    {
+      "url": "file://tvbox/zhenxin/zhenxin.json",
+      "name": "🚀④真心线路"
+    },	
+    {
+      "url": "file://tvbox/OK/OK.json",
+      "name": "🚀⑤OK线路"
+    },
+    {
+      "url": "file://tvbox/fty/fty.json",
+      "name": "🚀⑥饭太硬线路"
+    }, 
+    {
+      "url": "file://tvbox/xiaosa/xiaosa.json",
+      "name": "🚀⑦潇洒线路"
+    },	
+    {
+      "url": "file://tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀⑧香雅情线路"
+    },	
+    {
+      "url": "file://tvbox/feimao/feimao.json",
+      "name": "🚀⑨肥猫线路"
+    },		
+    {
+      "url": "file://tvbox/chayu/chayu.json",
+      "name": "🚀⑩茶余线路"
+    },
+    {
+      "url": "file://tvbox/wangerxiao/wangerxiao.json",
+      "name": "🚀⑪放牛线路"
+    },
+    {
+      "url": "file://tvbox/kaixin/kaixin.json",
+      "name": "🚀⑫开心线路"
+    },
+    {
+      "url": "file://tvbox/moyu/moyu.json",
+      "name": "🚀⑬摸鱼线路"
+    },	
+    {
+      "url": "file://tvbox/yeyu/yeyu.json",
+      "name": "🚀⑭业余线路"
+    },
+    {
+      "url": "file://tvbox/chunying/chunying.json",
+      "name": "🚀⑮春盈线路"
+    }, 	
+    {
+      "url": "file://tvbox/duanjuheji/duanjuheji.json",
+      "name": "🚀⑯短剧合集"
+    },		
+    {
+      "url": "file://tvbox/daozhang/daozhang.json",
+      "name": "🚀⑰道长线路"
+    },
+    {
+      "url": "file://tvbox/gaotianliuyun/gaotianliuyun.json",
+      "name": "🚀⑱高天流云"
+    }
+  ]
+}

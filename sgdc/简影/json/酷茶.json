@@ -1,0 +1,22 @@
+{
+  "站名": "酷茶影视",
+  "主页url": "https://www.kcys.top",
+  "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 10; AKA-AL10 Build/HONORAKA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/34.5)",
+  "二次截取": "row row-space* row-m-space* tx-column-* tx-column&&</ul",
+  "数组": "<li&&</li",
+  "图片": "src=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+  "线路数组": "class=\"play-btn*\"*&&</a>",
+  "线路标题": "💢简影👉+>&&</a",
+  "播放数组": "class=\"play-list-wrap\">&&</div>",
+  "搜索模式": "1",
+  "搜索url": "/search/index.html?keyword={wd}",
+  "搜索数组": "<li class=\"mb15\"&&</li",
+  "搜索图片": "src=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "分类url": "/vod/{catePg}/{cateId}/0/0/0/0/0/0",
+  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$39"
+}

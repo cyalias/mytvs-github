@@ -1,0 +1,8 @@
+﻿{
+				"请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+				"二次截取": "stui-vodlist clearfix&&</ul",
+				"数组": "<li&&</li",
+				"分类": "电影$1#电视剧$2#动漫$4#综艺$5",
+				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#海外剧$16||国产动漫$24#韩日动漫$25#港台动漫$26#欧美动漫$27||大陆综艺$17#日韩综艺$20#港台综艺$18#欧美综艺$21",
+				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-----{catePg}---.html[https://rebozj.pro/type/{cateId}-{catePg}.html];;k"
+			}

@@ -1,0 +1,19 @@
+
+ {
+    "作者":"最简影视",
+    "站名":"348影视",
+    "主页url":"https://348z.com/",
+     "标题":"title=\"&&\"",
+    "副标题":"class=\"pack-prt ol3\"*>&&</span>",
+    "图片":"data-original=\"&&\"",
+    "链接":"href=\"&&\"",
+      "搜索url":"https://348z.com/vodsearch.html?wd={wd}",
+    "搜索模式":"1",
+     "搜索数组":"class=\"search-list cf\"&&</li>",
+    "搜索标题":"class=\"title cor1\"*>&&<span",
+    "搜索副标题":"class=\"pack-prb\">&&</span>",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索链接":"href=\"&&\"",
+     "分类url":"https://348z.com/vodshow/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+    "分类":"电影$1#电视剧$13#综艺$3#动漫$4#4K专区$37"}	
+	

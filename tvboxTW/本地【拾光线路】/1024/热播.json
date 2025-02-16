@@ -1,0 +1,12 @@
+﻿ {
+				"主页url": "https://www.09871.com/",
+				"数组": "<li class=\"hl-list-item hl-col-xs-&&</li",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"简介": "简介：&&</li>",
+				"线路数组": "<a class=\"hl-tabs-btn hl-slide-swiper&&</a",
+				"线路标题": "+>&&</a[不包含:http下载]",
+				"分类url": "https://www.09871.com/pianku/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+				"分类": "电影$mv#连续剧$tv#综艺$mc#动漫$ac"
+			}

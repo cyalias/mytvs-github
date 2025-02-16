@@ -1,0 +1,16 @@
+{
+  "主页url": "https://www.knvod.com",
+  "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 10; AKA-AL10 Build/HONORAKA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/34.5)",
+  "数组": "<a&&module-poster-item-title",
+  "副标题": "module-item-note\">&&</div>",
+  "图片": "data-original=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "线路数组": "class=\"module-tab-item tab-item&&/div>",
+  "线路标题": "💢简影👉+<span>&&</span>+[共+<small>&&</small>+集]",
+  "简介": ">&&</p",
+  "搜索Url": "/daxiaoren/-------------/?wd={wd}",
+  "分类url": "/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;k",
+  "分类": "电影&连续剧&综艺&动漫&纪录片&短剧",
+  "分类值": "1&2&3&4&5&6"
+}

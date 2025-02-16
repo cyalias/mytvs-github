@@ -1,0 +1,21 @@
+ {
+				"数组":"col-sm-* col-xs-&&</li",
+		    	"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"[替换:演员表>>空]",
+                "副标题": "vtitle text-right\"&&</span>",
+				"链接": "href=\"&&\"",
+				"搜索标题":"color=\"text-color\"&&</span",
+				"线路名二次截取": "nav nav-tabs hidden-xs&&</ul",
+				"线路数组": "<li&&</li",
+				"线路标题": "💢简影👉+>&&</a",
+				"播放数组":"clearfix fade&&</ul",
+				"播放列表": "<li&&</li>",
+				"播放标题": ">&&</a",
+				"播放链接": "href=\"&&\"",
+				"简介":"详细介绍：*>&&</span><a class=\"hidden-xs\"",
+				"起始页":"1",
+				"分类url": "https://www.kanmeiju.org/{cateId}/__{year}__{by}_{catePg}.html;;k",
+				"分类": "剧集&电影&综艺&动漫&短剧",
+				"分类值": "dianshiju&dianying&zongyi&dongman&duanju",
+				"类型": "国产剧$guocanju#港台剧$gangtaiju#欧美剧$oumeiju#日韩剧$rihan#海外剧$haiwaiju#泰国剧$taiguoju||动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#纪录片$jilupian#动画片$donghuapian||空||空||空"
+			}

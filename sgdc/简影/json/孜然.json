@@ -1,0 +1,13 @@
+﻿	{
+				"主页url": "https://www.zrys.top",
+				"搜索Url": "https://www.zrys.top/index.php/vod/search.html?wd={wd}",
+				"数组": "<div class=\"module-item\">&&</div",
+				"标题": "title=\"&&\"",
+				"简介": "<p>&&</p>",
+				"副标题": "module-item-text\"&&</div",
+				"线路数组 ": "<div class=\"cf swiper-wrapper\"&&</div",
+				"分类url": "https://www.zrys.top/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}/",
+				"分类": "电影&电视剧&综艺&动漫&短剧",
+				"分类值": "1&2&3&4&44",
+				"地区": "中国大陆$中国大陆#香港$香港#台湾$台湾#韩国$韩国#日本$日本#泰国$泰国#英国$英国#美国$美国#新加坡$新加坡"
+			}

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "IPV4直播自动更新",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    },
+    {
+        "name": "全面直播",
+        "url": "http://47.108.190.141/wx/zb/live3.txt"
+    },
+    {
+        "name": "咪咕直播",
+        "url": "http://47.108.190.141/wx/zb/live.txt"
+    },
+    {
+        "name": "春盈直播",
+        "url": "http://47.108.190.141/wx/zb/chunyingzhibo.txt"
+    },
+    {
+        "name": "电视IPTV6（移动优）",
+        "url": "http://47.108.190.141/wx/zb/IPTV6.txt"
+    },
+    {
+        "name": "电视IPV6",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+    },
+    {
+        "name": "电视IPV4+IPV6",
+        "url": "http://47.108.190.141/wx/zb/IPTV.txt"
+    },
+    {
+        "name": "电视直播IPV4-1",
+        "url": "http://47.108.190.141/wx/zb/ipv4-2.1.txt"
+    },
+    {
+        "name": "电视直播IPV4-2",
+        "url": "http://47.108.190.141/wx/zb/野火.txt"
+    },
+    {
+        "name": "电视直播IPV4-3",
+        "url": "http://47.108.190.141/wx/zb/tvlive.txt"
+    },
+    {
+        "name": "电视直播春莹",
+        "url": "http://47.108.190.141/wx/zb/chunying.txt"
+    },
+    {
+        "name": "MTV三万九",
+        "url": "http://47.108.190.141/wx/zb/mv.txt"
+    },
+    {
+        "name": "电台之声",
+        "url": "http://47.108.190.141/wx/zb/Radio.txt"
+    }
+]
