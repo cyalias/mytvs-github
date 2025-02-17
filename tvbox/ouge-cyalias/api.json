@@ -707,6 +707,7 @@
   ],
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
+{"name":"MyLive","type":0,"url":"https://raw.githubusercontent.com/cyalias/mytvs-github/main/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png","epg": "https://uh115654wg0.vicp.fun/api/v1?ch={name}&date={date}"},
     {
       "name": "牛播一（仅新版影视仓/ok影视）",
       "type": 0,
