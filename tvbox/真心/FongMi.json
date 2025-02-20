@@ -53,7 +53,8 @@
       "changeable": 0,
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
-        "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "count": 4,
+        "channelUsername": "Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
         "commonConfig": "./json/peizhi.json",
         "filter": "./json/douban.json"
       }
@@ -71,7 +72,7 @@
     },
     {
       "key": "网盘集合",
-      "name": "网盘集合|4K",
+      "name": "网盘集合 | 4K",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
@@ -117,8 +118,34 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://woggpan.333232.xyz/",
         "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "网盘 | 片库",
+      "name": "网盘 | 片库",
+      "type": 3,
+      "api": "csp_Qiwei",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.qwnull.com",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "星剧社",
+      "name": "网盘 | 星剧社",
+      "type": 3,
+      "api": "csp_Star2",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://e.star2.cn/",
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -139,8 +166,21 @@
       }
     },
     {
+      "key": "盤搜天意",
+      "name": "网盘 | 盤搜天意",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.tianyiso.com",
+        "commonConfig": "./peizhi.json"
+      }
+    },
+    {
       "key": "lf_live10_min",
-      "name": " 路飞丨Live",
+      "name": "路飞丨Live",
       "type": 3,
       "searchable": 0,
       "quickSearch": 1,
@@ -167,20 +207,21 @@
     },
     {
       "key": "TgYunPan|本地",
-      "name": "TgYunPan|本地",
+      "name": "TgYunPan | 本地",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "count": 4,
+        "channelUsername": "Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
         "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "盘Ta",
-      "name": "盘Ta",
+      "name": "网盘 | 盘Ta",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -193,7 +234,7 @@
     },
     {
       "key": "小雷",
-      "name": "小雷",
+      "name": "网盘 | 小雷",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -204,21 +245,10 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-    {
-      "key": "星剧社",
-      "name": "星剧社",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
+
     {
       "key": "易搜",
-      "name": "易搜|4K",
+      "name": "易搜 | 4K",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -231,7 +261,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "盤搜索",
+      "name": "网盘 | 盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -242,7 +272,7 @@
     },
     {
       "key": "紙條搜",
-      "name": "紙條搜",
+      "name": "网盘 | 紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -250,15 +280,6 @@
       "ext": {
         "commonConfig": "./json/peizhi.json"
       }
-    },
-    {
-      "key": "賤賤",
-      "name": "賤賤",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
     {
       "key": "AList",
