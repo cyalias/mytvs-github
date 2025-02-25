@@ -84,6 +84,45 @@
       }
     },
     {
+      "key": "玩偶 | 闪电uc",
+      "name": "玩偶 | 闪电uc",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://1.95.79.193/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "玩偶 | 小米",
+      "name": "玩偶 | 小米",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "https://www.milvdou.fun/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
+      "key": "玩偶 | 多多",
+      "name": "玩偶 | 多多",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://tv.yydsys.top/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
       "key": "玩偶 | 蜡笔",
       "name": "玩偶 | 蜡笔",
       "type": 3,
@@ -105,7 +144,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://www.muoupan.top/",
+        "siteUrl": "http://127.0.0.1:9966/api/proxy/https://mo.666291.xyz/",
         "filter": "./json/wogg.json"
       }
     },
