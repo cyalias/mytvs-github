@@ -396,7 +396,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://mogg1.banye.tech:7777",
+                "site": "http://muou.6qu.top",
                 "danmu": true
             }
         },
@@ -584,7 +584,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
         },
         {
             "key": "木头",
@@ -600,7 +600,7 @@
             "type": 3,
             "api": "csp_Muou",
             "playerType": 2,
-            "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+            "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
         },
         {
             "key": "星河",
@@ -648,7 +648,7 @@
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
-            "ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="
+            "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy"
         },
         {
             "key": "优质",
@@ -664,7 +664,7 @@
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 2,
-            "ext": "saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="
+            "ext": "saHR0cDovL2hvc3QueXl5cy5uZXdzLzI1MDEyMy50eHR8UnVOOUxSdndUUmdwUW5wS3xSdU45TFJ2d1RSZ3BRbnBLfDU0Ng=="
         },
         {
             "key": "蝴蝶",
@@ -831,6 +831,14 @@
             "api": "csp_XiaoMaoApp"
         },
         {
+            "key": "小米良人",
+            "name": "良人｜APP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_LiangRenApp"
+        },
+        {
             "key": "西瓜视频",
             "name": "西瓜｜视频",
             "type": 3,
@@ -859,6 +867,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "南瓜影视",
+            "name": "南瓜｜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 1,
+            "ext": "maHR0cDovL25nLmNoYW5nbWVuZ3l1bi5jb20="
         },
         {
             "key": "农民影视",
@@ -2102,14 +2118,6 @@
         {
             "name": "AI直播",
             "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "AI直播+",
-            "type": 0,
             "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "playerType": 2,
@@ -2159,9 +2167,20 @@
             "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "timeout": 10
+        },
+        {
+            "name": "APTV",
+            "type": 0,
+            "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 10,
+            "playerType": 2
         }
     ],
     "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
