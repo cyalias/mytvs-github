@@ -97,6 +97,19 @@
       }
     },
     {
+      "key": "玩偶 | 二小",
+      "name": "玩偶 | 二小",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "https://erxiaofn.click/",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
       "key": "玩偶 | 小米",
       "name": "玩偶 | 小米",
       "type": 3,
@@ -183,7 +196,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "https://e.star2.cn/",
+        "siteUrl": "https://star.banye.tech:7086/",
         "commonConfig": "./json/peizhi.json"
       }
     },
