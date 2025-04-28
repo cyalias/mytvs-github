@@ -9,11 +9,11 @@
 
 | 文件名 | 说明 |
 | - | - |
-| box.json | 自用 |
-| jsm.json | PG |
-| api.json | 饭总 |
+| myjk.json |自用多仓链接 |
+| mytv.txt  | 直播链接 |
+| radio.txt | 电台链接 |
 
-```自用
+```自用多仓链接
 https://clun.top/box.json
 ```
 
