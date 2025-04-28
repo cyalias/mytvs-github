@@ -1,9 +1,4 @@
 
-###### ⚠️ **重要提示**：使用前请务必阅读 [免责声明](DISCLAIMER.md)
-
-#### 欢迎 Star 及 PR。
-
-
 <details>
 <summary>TVBox 自用配置</summary>
 
