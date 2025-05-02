@@ -1,12 +1,23 @@
-﻿## 🚀mytvs
-整合网上大佬接口为多仓,为自己测试使用.
 
+<details>
+<summary>TVBox 自用配置</summary>
 
-## 🚀 自用多仓链接
-https://raw.githubusercontent.com/cyalias/mytvs-github/main/myjk.json
+| 文件名 | 说明 |
+| - | - |
+| myjk.json |自用多仓链接 |
+| mytv.txt  | 直播链接 |
+| radio.txt | 电台链接 |
 
-## 🚀 直播链接
-https://raw.githubusercontent.com/cyalias/mytvs-github/main/mytv.txt
+```自用多仓链接
+https://clun.top/box.json
+```
 
-## 🚀 电台链接
-https://raw.githubusercontent.com/cyalias/mytvs-github/main/radio.txt
+```PG
+https://clun.top/jsm.json
+```
+
+```饭总
+https://clun.top/api.json
+```
+
+</details>
