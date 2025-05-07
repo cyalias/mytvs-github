@@ -52,7 +52,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
+        "siteUrl": "https://ubpvncmriutr.ap-northeast-1.clawcloudrun.com",
         "count": 4,
         "channelUsername": "xx123pan,Q66Share,bdwpzhpd,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
         "commonConfig": "./json/peizhi.json",
@@ -84,6 +84,19 @@
       }
     },
     {
+      "key": "网盘 | 片库",
+      "name": "网盘 | 片库",
+      "type": 3,
+      "api": "csp_Qiwei",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.qwnull.com",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
       "key": "游戏 | 直播",
       "name": "游戏 | 直播",
       "type": 3,
@@ -92,19 +105,19 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
     },
-    {
-      "key": "玩偶 | 清影",
-      "name": "玩偶 | 清影",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://revohd.com/",
-        "filter": "./json/wogg.json"
-      }
-    },
+//    {
+//      "key": "玩偶 | 清影",
+//      "name": "玩偶 | 清影",
+//      "type": 3,
+//      "api": "csp_kongbai",
+//      "searchable": 1,
+//      "changeable": 0,
+//      "ext": {
+//        "commonConfig": "./json/peizhi.json",
+//        "siteUrl": "https://revohd.com/",
+//        "filter": "./json/wogg.json"
+//      }
+//    },
     {
       "key": "玩偶 | 大玩偶",
       "name": "玩偶 | 大玩偶",
@@ -207,19 +220,6 @@
         "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://woggpan.333232.xyz/",
         "filter": "./json/wogg.json"
-      }
-    },
-    {
-      "key": "网盘 | 片库",
-      "name": "网盘 | 片库",
-      "type": 3,
-      "api": "csp_Qiwei",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "siteUrl": "https://www.qwnull.com",
-        "commonConfig": "./json/peizhi.json"
       }
     },
     {
