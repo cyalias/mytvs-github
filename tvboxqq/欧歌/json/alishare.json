@@ -1,46 +1,105 @@
 [
     {
-        "share_name": "优品阁",
-        "share_id": "uWa9gbM3RJ7"
+        "name": "我的网盘",
+        "folders": [
+            {
+                "shareId": "",
+                "folder": "root"
+            }
+        ]
     },
     {
-        "share_name": "阿里1T",
-        "share_id": "mxAfB6eRgY4"
+        "name": "短剧合集",
+        "folders": [
+            {
+                "shareId": "Y5wMKfVDD6K",
+                "folder": "6616613853041ba53f2842918e02346943d980b4"
+            }
+        ]
     },
     {
-        "share_name": "平凡中的",
-        "share_id": "4ydLxf7VgH7"
+        "name": "动漫合集",
+        "folders": [
+            {
+                "shareId": "LEaepiYfxcw",
+                "folder": "61019a966975bfef583449a39b36da512384b2d7"
+            }
+        ]
     },
     {
-        "share_name": "tacit0924",
-        "share_id": "DNgnCudf4cD?pwd=6666"
+        "name": "电影合集",
+        "folders": [
+            {
+                "shareId": "ZHNChQfiPfk",
+                "folder": "root"
+            },
+            {
+                "shareId": "e27BPgDwxeA",
+                "folder": "root"
+            },
+            {
+                "shareId": "XUH7r6BZuML",
+                "folder": "root"
+            },
+            {
+                "shareId": "qZ4f1i2EFW2",
+                "folder": "root"
+            },
+            {
+                "shareId": "ohJ68NV7iFw",
+                "folder": "root"
+            }
+        ]
     },
     {
-        "share_name": "黄妈",
-        "share_id": "4bGRVUdUtct"
+        "name": "电视剧合集",
+        "folders": [
+            {
+                "shareId": "ftMhRaKUfYp",
+                "folder": "root"
+            },
+            {
+                "shareId": "MLWPRHRt9W3",
+                "folder": "root"
+            },
+            {
+                "shareId": "8Fg4TNsd2A2",
+                "folder": "root"
+            },
+            {
+                "shareId": "ar8Kg9azw1S",
+                "folder": "root"
+            },
+            {
+                "shareId": "GMYSz3AHFaA",
+                "folder": "root"
+            }
+        ]
     },
     {
-        "share_name": "YYDSVIP",
-        "share_id": "dieULBdYP3D"
+        "name": "综艺合集",
+        "folders": [
+            {
+                "shareId": "UuHi9PeYSVz",
+                "folder": "root"
+            },
+            {
+                "shareId": "v9To3HC6vhs",
+                "folder": "root"
+            }
+        ]
     },
     {
-        "share_name": "优源阁",
-        "share_id": "RnjUi1urdb2"
-    },
-    {
-        "share_name": "风流动漫",
-        "share_id": "WdaaeX7HK44"
-    },
-    {
-        "share_name": "风流剧集",
-        "share_id": "kgxWjZsK6bq"
-    },
-    {
-        "share_name": "xiaaluo",
-        "share_id": "sg8CdGUwmUr"
-    },
-    {
-        "share_name": "4K影视",
-        "share_id": "wHPKUENKFsS"
+        "name": "其它合集",
+        "folders": [
+            {
+                "shareId": "4ydLxf7VgH7",
+                "folder": "root"
+            },
+            {
+                "shareId": "uWa9gbM3RJ7",
+                "folder": "root"
+            }
+        ]
     }
 ]

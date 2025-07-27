@@ -1,7 +1,7 @@
 {
     "规则名": "农民影视",
     "规则作者": "香雅情",
-    "请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
+    "请求头参数": "User-Agent$手机#accept$text/html#Referer$https://www.wwgz.cn",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
@@ -34,7 +34,7 @@
     "分类片单链接加前缀": "https://www.wwgz.cn",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
-    "search_url": "https://v.nmvod.cn/index.php?m=vod-search;post",
+    "search_url": "https://www.wwgz.cn/index.php?m=vod-search;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": "#data_list&&li",
