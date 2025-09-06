@@ -12,4 +12,4 @@ chmod 777 tgsou-linux(linux 平台)
 3.后台运行
   nohup ./tgsou-linux > my_log_file.log 2>&1 &
 4.访问
- http://127.0.0.1:9999/?channelUsername=hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare&keyword=周星驰
+ http://127.0.0.1:9999/?channelUsername=dianyingshare,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare&keyword=周星驰

@@ -1,13 +1,13 @@
 {
   "class":[
-    {
-      "type_name": "时下流行-刚刚发布视频",
-      "type_id": "时下流行-刚刚发布视频"
-    },
-    {
-      "type_name": "近期热门视频",
-      "type_id": "时下流行-近期热门视频"
-    },
+//    {
+//      "type_name": "时下流行-刚刚发布视频",
+//      "type_id": "时下流行-刚刚发布视频"
+//    },
+//    {
+//      "type_name": "近期热门视频",
+//      "type_id": "时下流行-近期热门视频"
+//    },
     {
       "type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
       "type_name":"HDR"

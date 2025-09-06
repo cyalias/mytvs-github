@@ -14,5 +14,5 @@
   "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理:socks5://12345678:12345678@47.236.191.222:1080
   "tgPic": "true",//tgsou 图片显示与否
   //每次更新jar 该值都必须更新
-  "exeMd5": "mfOdxVhFaPon5Tfr8rdiXexCU/ZxYYMPzCB0QuiKm2Dst4VZUCcnoEn3mntVFo5zzUAfpx6ZjGgUBP2wAypaL5xhoQKaAeQiHarU0S6yBVNGIkqy5iJybU+iAL9zRYbzz/JpOYhV4ATGQjpWpi6WxwY+J3M6tP60CIa/OstZgTqnJRicoVJ4i6BoklfrWhCdMchrWEWQY8xgIX/Qhsg8Czfzm8Q2OytOgxjBLl67+EAz1ZkX3pLDddc3QZLgViMJ1FZnwQDY5iRZqHVfnJB1wEgJ5dEIIRC+kUwxzTQi7WOzf//+9Eyusj1mAoDWXZo5PKf/vJEMNrmgBt47yhWEHkjKUmk0igxGTuZSoDcM3F5G8Pjc1+JuZtdU9JHI2aqjSdNHr27CCluu42WoFgQrj9fOvSEtpnpRlEFM74w="
+  "exeMd5": "ciBrXNP6vKLbI0PpIER4ZjwvDrlj/pjHoHdsfRzF63ZdeAFFH/v7Y/ea9pUn62ArTDv58o/R4xr7/GapwxIYElET+ZnrTb9XnFFavOYEX5CeZE8TpfdiTsIn71w6RN31hDJhxesLDMJwCkAbypYNrPwGkcLbj09pTZ7O8VDs2DILQcTtrQEsGFAKdMBgwnsAJ2z3qHSpqEI13XjZTTQp64r7uozDpioyCfQ+upu9wL6/PyNmqNN9odjhZI5sMjmMCClm+ONmXkE0+d3/1NA2rBpTHNqm8QhzgpIC/U5f982oT/pjnD21LHnvk9LXtoGdqy2MUzIyBV0vFHb4oeLb81rVRYQ0LofEyPmVYB6hhvl/68UYbXuge9zQK1GqacO2gzlUbPe9f4XALmUYCtdFCPC3WVtkD0rW/e2q4w=="
 }
