@@ -43,6 +43,8 @@ clan://localhost/tvboxqq/肥猫/api.json
 
 clan://localhost/tvboxqq/王二小/api.json
 
+clan://localhost/tvboxqq/OK/api.json
+
 clan://localhost/tvboxqq/潇洒/api.json
 
 clan://localhost/tvboxqq/摸鱼儿/api.json
@@ -66,17 +68,19 @@ http://www.饭太硬.com/tv
 
 http://miqk.cc/小米/DEMO.json 
 
-http://肥猫.com
+http://hello.肥猫.com
 
 http://tvbox.王二小放牛娃.top
 
 https://9877.kstore.space/AnotherD/api.json
 
+http://ok321.top/ok
+
 http://我不是.摸鱼儿.top
 
 http://hb.小虎斑.site:25252/仅供测试
 
-https://欧歌.v.nxog.top/m
+https://xn--anna-wn6lw489o.v.nxog.top/m/
 
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 

@@ -1,1 +1,0 @@
-clan://localhost/tvbox/xiaomi/xiaomi.json

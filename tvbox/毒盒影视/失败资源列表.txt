@@ -1,5 +1,0 @@
-https://tv.nxog.top/m/json/wog.json
-https://tv.nxog.top/m/json/wod.json
-https://tv.nxog.top/m/json/woj.json
-https://tv.nxog.top/m/json/yps.json
-http://127.0.0.1:9978/file/TVBox/quark.txt

@@ -71,6 +71,20 @@
       }
     },
     {
+      "key": "Jpys",
+      "name": "金牌影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://www.jiabaide.cn",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
       "key": "网盘集合",
       "name": "网盘集合 | 4K",
       "type": 3,
@@ -97,27 +111,72 @@
       }
     },
     {
+      "key": "Emby",
+      "name": "Emby",
+      "type": 3,
+      "api": "csp_Emby",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        //        "server": "https://emby.feiniu.lol:443",
+        //emby需要梯子的，配置代理头
+        "server": "http://127.0.0.1:9966/api/proxy/https://lite.cn2gias.uk:443",
+        "username": "23",
+        "password": "23",
+        "ua": "Yamby/1.0.2(Android)",
+        "client": "Yamby",
+        "deviceName": "",
+        "commonConfig": "./json/peizhi.json"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "肥牛",
+      "name": "Emby肥牛",
+      "type": 3,
+      "api": "csp_Emby",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        //        "server": "https://emby.feiniu.lol:443",
+        //emby需要梯子的配置
+        "server": "http://127.0.0.1:9966/api/proxy/https://emby.feiniu.lol:443",
+        "username": "23",
+        "password": "123",
+        "ua": "",
+        "client": "Yamby",
+        "deviceName": "Yamby",
+        "commonConfig": "./json/peizhi.json"
+      },
+      "changeable": 1
+    },
+    {
       "key": "游戏 | 直播",
       "name": "游戏 | 直播",
       "type": 3,
       "api": "csp_Living",
       "searchable": 1,
       "changeable": 0,
-      "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
+      "ext": {
+        "siteUrl": "https://api.muxia.fun",
+        "commonConfig": "./json/peizhi.json"
+      }
     },
-//    {
-//      "key": "玩偶 | 清影",
-//      "name": "玩偶 | 清影",
-//      "type": 3,
-//      "api": "csp_kongbai",
-//      "searchable": 1,
-//      "changeable": 0,
-//      "ext": {
-//        "commonConfig": "./json/peizhi.json",
-//        "siteUrl": "https://revohd.com/",
-//        "filter": "./json/wogg.json"
-//      }
-//    },
+    //    {
+    //      "key": "玩偶 | 清影",
+    //      "name": "玩偶 | 清影",
+    //      "type": 3,
+    //      "api": "csp_kongbai",
+    //      "searchable": 1,
+    //      "changeable": 0,
+    //      "ext": {
+    //        "commonConfig": "./json/peizhi.json",
+    //        "siteUrl": "https://revohd.com/",
+    //        "filter": "./json/wogg.json"
+    //      }
+    //    },
     {
       "key": "玩偶 | 大玩偶",
       "name": "玩偶 | 大玩偶",
@@ -192,20 +251,20 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://www.goimg.asia/",
+        "siteUrl": "http://www.labi88.sbs/",
         "filter": "./json/wogg.json"
       }
     },
     {
-      "key": "玩偶 | 木偶",
-      "name": "玩偶 | 木偶",
+      "key": "玩偶 | 讴歌",
+      "name": "玩偶 | 讴歌",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://127.0.0.1:9966/api/proxy/http://123.666291.xyz/",
+        "siteUrl": "https://woog.nxog.eu.org/",
         "filter": "./json/wogg.json"
       }
     },
@@ -257,7 +316,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "https://star.banye.tech:7086/",
+        "siteUrl": "https://star.banye.tech:7183/",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -274,8 +333,7 @@
       },
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "json": "./json/youtube.json",
-        "cookie": ""
+        "json": "./json/youtube.json"
       }
     },
     {
@@ -368,7 +426,6 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-
     {
       "key": "易搜",
       "name": "易搜 | 4K",
@@ -425,7 +482,6 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-
     {
       "key": "360资源",
       "name": "360资源-采集",

@@ -34,15 +34,18 @@
         },
         {
             "key": "设置",
-            "name": "网弹|新设置",
+            "name": "网弹|设置",
             "type": 3,
             "api": "csp_HBconfig"
         },
         {
-            "key": "oid设置",
-            "name": "网弹|旧设置",
+            "key": "全网",
+            "name": "全网|短剧",
             "type": 3,
-            "api": "csp_HBset"
+            "api": "csp_HBqkDj3",
+            "ext": {
+                "site": "http://xsayang.fun:14710"
+            }
         },
         {
             "key": "聚合",
@@ -64,13 +67,14 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "",
-                "dutoken": "",
-                "p123token": "",
-                "token": "",
-                "cookie": "",
-                "uccookie": "",
-                "site": "http://103.45.162.207:20720/"
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
+                "site": "http://103.45.162.207:20720"
             }
         },
         {
@@ -80,13 +84,17 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
                 "site": "http://xsayang.fun:12512/"
+            }
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "玩偶|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Wogg",
+            "ext": {
+                "site": "https://wogg.xxooo.cf/"
             }
         },
         {
@@ -96,13 +104,7 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-                "site": "http://xsayang.fun:12512/"
+                "site": "http://123.666291.xyz/"
             }
         },
         {
@@ -112,13 +114,27 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-                "site": "http://xsayang.fun:12512/"
+                "site": "https://mihdr.top/"
+            }
+        },
+        {
+            "key": "多多",
+            "name": "多多|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Mogg",
+            "ext": {
+                "site": "https://tv.yydsys.top/"
+            }
+        },
+        {
+            "key": "ou多",
+            "name": "讴歌|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Mogg",
+            "ext": {
+                "site": "https://woog.nxog.eu.org/"
             }
         },
         {
@@ -148,12 +164,6 @@
             "playerType": 2,
             "api": "csp_HBhaiM",
             "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/HBTV/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/HBTV/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/HBTV/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/HBTV/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/HBTV/uccookie.txt",
                 "hmianck": "",
                 "site": "https://www.haimianxz.com"
             }
@@ -164,61 +174,117 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_HBleiJing",
-            "ext": {}
+            "ext": {
+                "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
+                "leijck": ""
+            }
         },
         {
-            "key": "短剧夸克2",
-            "name": "夸克|短剧1",
+            "key": "123",
+            "name": "123|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=123"
+        },
+        {
+            "key": "夸克推送",
+            "name": "夸克|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=quark"
+        },
+        {
+            "key": "优惜",
+            "name": "优惜|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=uc"
+        },
+        {
+            "key": "百度",
+            "name": "百度|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=baidu"
+        },
+        {
+            "key": "天翼",
+            "name": "天翼|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+        },
+        {
+            "key": "景天",
+            "name": "景天|4K弹幕",
             "type": 3,
-            "api": "csp_HBqkDj2"
+            "api": "csp_HBcms10Dou",
+            "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/qq/"
         },
         {
-            "key": "短剧夸克1",
-            "name": "夸克|短搜2",
+            "key": "茂茂",
+            "name": "茂茂|4K弹幕",
             "type": 3,
-            "api": "csp_HBqkDj"
+            "api": "csp_HBcms10Dou",
+            "ext": "https://zy.sh0o.cn/api.php/provide/vod/from/mgtv/"
         },
         {
-            "key": "窈窕",
-            "name": "窈窕|4K弹幕",
+            "key": "至尊",
+            "name": "魔尊|4K弹幕",
+            "type": 3,
+            "api": "csp_AppZzun",
+            "ext": "./txt/app.txt"
+        },
+        {
+            "key": "魔尊",
+            "name": "重楼|4K弹幕",
+            "type": 3,
+            "api": "csp_HBcms10",
+            "ext": "./txt/cms.txt"
+        },
+        {
+            "key": "紫萱",
+            "name": "紫萱|4K弹幕",
+            "type": 3,
+            "api": "csp_AppZzun",
+            "ext": "./txt/app2.txt"
+        },
+        {
+            "key": "竹生",
+            "name": "竹生|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=labi###labi"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09"
         },
         {
-            "key": "淑女",
-            "name": "淑女|4K弹幕",
+            "key": "归安",
+            "name": "归安|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
         },
         {
-            "key": "君子",
-            "name": "君子|4K弹幕",
+            "key": "薄心",
+            "name": "薄心|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=erxiao###erxiao"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ=="
         },
         {
-            "key": "好逑",
-            "name": "好逑|4K弹幕",
+            "key": "甜橙",
+            "name": "甜橙|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=ouge###ouge"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
         },
         {
-            "key": "琴瑟",
-            "name": "琴瑟|4K弹幕",
+            "key": "花落",
+            "name": "花落|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=qingying###qingying"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXhhVzVuZVdsdVp5TWpJM0ZwYm1kNWFXNW4="
         },
         {
             "key": "小猫",
             "name": "小猫|自定",
             "type": 3,
             "api": "csp_HBcms10",
-            "ext": "https://zy.xmm.hk/api.php/provide/vod/"
+            "ext": "https://vs.okcdn100.top/api.php/provide/vod/"
         },
         {
             "key": "tenteng",
@@ -276,17 +342,24 @@
             }
         },
         {
+            "key": "苹果",
+            "name": "苹果|弹幕",
+            "type": 3,
+            "api": "csp_HBPguo"
+        },
+        {
             "key": "天天",
             "name": "天天|弹幕",
             "type": 3,
-            "api": "csp_HBtiantian",
-            "ext": "http://tt.ysdqjs.cn/"
+            "api": "csp_HBtiantianv3",
+            "ext": "http://v.rbotv.cn"
         },
         {
             "key": "jianpian",
             "name": "荐片|弹幕",
             "type": 3,
-            "api": "csp_Jianpian"
+            "api": "csp_Jianpian",
+            "ext": "http://pizazzGY.zxbwv.com"
         },
         {
             "key": "风神",
@@ -294,6 +367,13 @@
             "type": 3,
             "api": "csp_HBv1Class",
             "ext": "DyoqWQInJUMuGFdINDU2AQMoEEAuDFdLDRtJAwMGWR8DJjhENFAqWC0CLgYDOQIADA82Ey0CJgMAMldLCzFBAQIoAwAGKQYB"
+        },
+        {
+            "key": "爱影",
+            "name": "爱影|弹幕",
+            "type": 3,
+            "api": "csp_HBv1Class",
+            "ext": "./txt/api.txt"
         },
         {
             "key": "0°",
@@ -386,7 +466,7 @@
             "name": "文才|弹幕",
             "type": 3,
             "api": "csp_Wcai",
-            "ext": "https://www.gs4x7nq4.com"
+            "ext": "https://www.jxshdzs.com/"
         },
         {
             "key": "星河",
@@ -618,6 +698,11 @@
             "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
         },
         {
+            "name": "晴天4K Q1026038872",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+        },
+        {
             "name": "虎斑XM",
             "type": 1,
             "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
@@ -627,6 +712,16 @@
                     "Origin": "https://jx.xmflv.com"
                 }
             }
+        },
+        {
+            "name": "虎斑szy",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
+        },
+        {
+            "name": "虎斑mt4K",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
         },
         {
             "name": "虎斑HJ",

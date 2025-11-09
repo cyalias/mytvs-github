@@ -11,8 +11,6 @@
   "ydAuth": "",//请求头中authorization 取basic 后面的值
   "tyAuth": "",//账号|密码
   "p123Auth":"",//账号|密码
-  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理:socks5://12345678:12345678@47.236.191.222:1080
-  "tgPic": "true",//tgsou 图片显示与否
-  //每次更新jar 该值都必须更新
-  "exeMd5": "ciBrXNP6vKLbI0PpIER4ZjwvDrlj/pjHoHdsfRzF63ZdeAFFH/v7Y/ea9pUn62ArTDv58o/R4xr7/GapwxIYElET+ZnrTb9XnFFavOYEX5CeZE8TpfdiTsIn71w6RN31hDJhxesLDMJwCkAbypYNrPwGkcLbj09pTZ7O8VDs2DILQcTtrQEsGFAKdMBgwnsAJ2z3qHSpqEI13XjZTTQp64r7uozDpioyCfQ+upu9wL6/PyNmqNN9odjhZI5sMjmMCClm+ONmXkE0+d3/1NA2rBpTHNqm8QhzgpIC/U5f982oT/pjnD21LHnvk9LXtoGdqy2MUzIyBV0vFHb4oeLb81rVRYQ0LofEyPmVYB6hhvl/68UYbXuge9zQK1GqacO2gzlUbPe9f4XALmUYCtdFCPC3WVtkD0rW/e2q4w=="
+  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则不使用代理 或者使用外置代理:socks5://12345678:12345678@47.236.191.222:1080
+  "tgPic": "true"//tgsou 图片显示与否
 }

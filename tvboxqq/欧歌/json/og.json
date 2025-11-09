@@ -1,12 +1,11 @@
 {
-    "SiteUrl": "https://woog.nxog.eu.org",
+    "SiteUrl": "",
     "Domains": [
-        "https://woog.nxog.fun",
-        "https://woog.xn--dkw.xn--6qq986b3xl"
-
+        "https://ogkk.nxog.eu.org",
+        "https://ogkk.nxog.fun"
     ],
     "SiteWord": "og",
-    "SiteName": "欧歌",
+    "SiteName": "玩偶",
     "Classes": [
         {
             "type_name": "电影",
