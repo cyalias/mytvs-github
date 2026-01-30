@@ -3,7 +3,7 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 "lives":[
-{"name":"CyaliasLive","type":0,"url":"https://raw.githubusercontent.com/cyalias/mytvs-github/main/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png","epg": "https://uh115654wg0.vicp.fun/api/v1?ch={name}&date={date}"}
+{"name":"CyaliasLive","type":0,"url":"https://raw.githubusercontent.com/cyalias/mytvs-github/main/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://github.com/fanmingming/live/blob/main/tv/{name}.png","epg": "https://uh115654wg0.vicp.fun/api/v1?ch={name}&date={date}"}
 ],
     "sites": [
         {

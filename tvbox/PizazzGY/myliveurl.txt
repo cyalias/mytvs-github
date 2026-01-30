@@ -5,3 +5,8 @@
 "lives":[
 {"name":"CyaliasLive","type":0,"url":"https://mytvs.cyalias.me/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png","epg": "https://myepg.cyalias.me/api/v1?ch={name}&date={date}"}
 ],
+
+
+"lives":[
+{"name":"CyaliasLive","type":0,"url":"https://mytvs.cyalias.me/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://github.com/fanmingming/live/blob/main/tv/{name}.png","epg": "https://myepg.cyalias.me/api/v1?ch={name}&date={date}"}
+],
