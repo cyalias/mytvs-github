@@ -65,18 +65,25 @@ clan://localhost/tvboxqq/戏曲音乐/api.json
 ★源接口：
 
 http://www.饭太硬.com/tv
+（饭太硬）
 
-http://miqk.cc/小米/DEMO.json 
+https://gitee.com/smallmi1007/mimi/raw/master/mi.json
+（小米）
 
 http://hello.肥猫.com
+（肥猫）
 
-http://tvbox.王二小放牛娃.top
+https://9280.kstore.vip/newwex.json
+（王二小）
+
+http://ok213.top/ok
+（OK）
 
 https://9877.kstore.space/AnotherD/api.json
+（潇洒）
 
-http://ok321.top/ok
-
-http://我不是.摸鱼儿.top
+http://我不是.摸鱼儿.com
+（摸鱼儿）
 
 http://hb.小虎斑.site:25252/仅供测试
 

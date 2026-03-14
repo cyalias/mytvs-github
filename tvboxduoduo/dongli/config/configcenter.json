@@ -1,0 +1,221 @@
+[
+    {
+        "name": "通用",
+        "list": [
+            {
+                "name": "ABI",
+                "key": "abiSelection",
+                "icon": "",
+                "des": "手动选择ABI"
+            },
+            {
+                "name": "Go引擎",
+                "key": "mediaproxyProbe",
+                "icon": "",
+                "des": "状态"
+            },
+            {
+                "name": "盘搜",
+                "key": "pansouDomain",
+                "icon": "",
+                "des": "域名"
+            },
+            {
+                "name": "凯速",
+                "key": "loginOrlogooutKStore",
+                "icon": "",
+                "des": "登录｜退出"
+            },
+            {
+                "name": "Cookie",
+                "key": "backupCookieToKStore",
+                "icon": "",
+                "des": "备份到凯速"
+            },
+            {
+                "name": "Cookie",
+                "key": "downloadCookieToLocal",
+                "icon": "",
+                "des": "从凯速下载到本地"
+            }
+        ]
+    },
+    {
+        "name": "哔哩",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanBilibiliCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setBilibiliCookie",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "夸氪",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanQuarkCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setQuarkCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "多线程",
+                "key": "setQuarkMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "优囍",
+        "list": [
+            {
+                "name": "清除Cookie",
+                "key": "cleanUcCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置Cookie",
+                "key": "setUcCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "多线程",
+                "key": "setUcMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "百度",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanBaiduCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setBaiduCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "多线程",
+                "key": "setBaiduMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "阿里",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanAliCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setAliCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "多线程",
+                "key": "setAliMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "天懿",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "cleanTianyiCookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "setTianyiCookie",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "壹贰叁",
+        "list": [
+            {
+                "name": "清除cookie",
+                "key": "clean123Cookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "清除账号信息",
+                "key": "clean123UserInfo",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "设置cookie",
+                "key": "set123Cookie",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "多线程",
+                "key": "set123MultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "数据库",
+        "list": [
+            {
+                "name": "本地数据库映射配置",
+                "key": "localDatabaseMapping",
+                "icon": "",
+                "des": "设置"
+            },
+            {
+                "name": "网络数据库映射配置",
+                "key": "networkDatabaseMapping",
+                "icon": "",
+                "des": "设置"
+            },
+            {
+                "name": "网络数据库",
+                "key": "networkDatabaseManagement",
+                "icon": "",
+                "des": "管理"
+            }
+        ]
+    }
+]

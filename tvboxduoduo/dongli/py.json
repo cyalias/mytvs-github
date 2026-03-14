@@ -1,0 +1,406 @@
+{
+    "logo": "./assets/logo2025121201.png",
+    "spider": "./jar/dongli-spider.jar",
+    "sites": [
+        {
+            "key": "py_fk",
+            "name": "飞快TV",
+            "type": 3,
+            "api": "./py/飞快TV.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_xiong_di_ying_shi",
+            "name": "兄弟影视",
+            "type": 3,
+            "api": "./py/兄弟影视.min.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "哔哩直播",
+            "name": "哔哩直播",
+            "type": 3,
+            "api": "./py/哔哩直播.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "4KVM",
+            "name": "4KVM",
+            "type": 3,
+            "api": "./py/4KVM.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "小苹果",
+            "name": "小苹果",
+            "type": 3,
+            "api": "./py/小苹果.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "小鸡暴走",
+            "name": "小鸡暴走",
+            "type": 3,
+            "api": "./py/小鸡暴走.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "hohaiemby",
+            "name": "hohai|EMBY",
+            "type": 3,
+            "api": "./py/emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "server": "https://emby.hohai.eu.org:443",
+                "username": "chuxin666",
+                "password": "ycc123456",
+                "proxy": "",
+                "thread": 0,
+                "device_name": "My Computer",
+                "client": "Hills Windows",
+                "client_version": "0.2.2",
+                "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+            }
+        },
+        {
+            "key": "今日看料",
+            "name": "今日看料",
+            "type": 3,
+            "api": "./py/今日看料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "UVod",
+            "name": "🧱UVod",
+            "type": 3,
+            "api": "./py/UVod.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "努努影院",
+            "name": "🧱努努影院",
+            "type": 3,
+            "api": "./py/努努影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "饭团影视",
+            "name": "饭团影视",
+            "type": 3,
+            "api": "./py/饭团影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "金牌",
+            "name": "金牌",
+            "type": 3,
+            "api": "./py/金牌.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "4K影视",
+            "name": "4K影视",
+            "type": 3,
+            "api": "./py/4K影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "HMDJ",
+            "name": "HMDJ",
+            "type": 3,
+            "api": "./py/HMDJ.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "LSYS",
+            "name": "LSYS",
+            "type": 3,
+            "api": "./py/LSYS.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "YYMP3音乐网",
+            "name": "YYMP3音乐网",
+            "type": 3,
+            "api": "./py/YYMP3音乐网.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "云端影视",
+            "name": "云端影视",
+            "type": 3,
+            "api": "./py/云端影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "优酷视频",
+            "name": "优酷视频",
+            "type": 3,
+            "api": "./py/优酷视频.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "剧王短剧",
+            "name": "剧王短剧",
+            "type": 3,
+            "api": "./py/剧王短剧.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "奇优动漫",
+            "name": "奇优动漫",
+            "type": 3,
+            "api": "./py/奇优动漫.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "柯南影视",
+            "name": "柯南影视",
+            "type": 3,
+            "api": "./py/柯南影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "永乐视频",
+            "name": "永乐视频",
+            "type": 3,
+            "api": "./py/永乐视频.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "爱瓜影视",
+            "name": "🧱爱瓜影视",
+            "type": 3,
+            "api": "./py/爱瓜影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "猎手影视",
+            "name": "猎手影视",
+            "type": 3,
+            "api": "./py/猎手影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "甜圈短剧",
+            "name": "甜圈短剧",
+            "type": 3,
+            "api": "./py/甜圈短剧.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "电影猎手",
+            "name": "电影猎手",
+            "type": 3,
+            "api": "./py/电影猎手.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        },
+        {
+            "key": "界影视",
+            "name": "界影视",
+            "type": 3,
+            "api": "./py/界影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "changeable": 1
+        }
+    ],
+    "headers": [
+        {
+            "host": "mgtv.ottiptv.cc",
+            "header": {
+                "User-Agent": "okHttp/Mod-1.4.0.0",
+                "Referer": "https://mgtv.ottiptv.cc/"
+            }
+        }
+    ],
+    "lives": [
+        {
+            "name": "冰茶",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "777",
+            "type": 0,
+            "url": "https://www.huaqi.live/?url="
+        },
+        {
+            "name": "jsonplayer",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ],
+    "flags": [
+        "youku",
+        "tudou",
+        "qq",
+        "qiyi",
+        "iqiyi",
+        "leshi",
+        "letv",
+        "sohu",
+        "imgo",
+        "mgtv",
+        "bilibili",
+        "pptv",
+        "PPTV",
+        "migu"
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-query",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ]
+}

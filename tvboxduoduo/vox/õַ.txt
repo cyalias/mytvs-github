@@ -1,0 +1,1 @@
+clan://localhost/tvbox/vox/demo.json

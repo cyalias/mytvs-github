@@ -1,0 +1,118 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "应用商店",
+                "url": "",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg",
+                "version": " "
+            }
+        ]
+    },
+    {
+        "name": "OK影视",
+        "list": [
+            {
+                "name": "手机端(64位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-3.7.5.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.5"
+            },
+            {
+                "name": "手机端(32位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-armeabi_v7a-3.7.5.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.5"
+            },
+            {
+                "name": "电视端(64位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-3.7.5.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.5"
+            },
+            {
+                "name": "电视端(32位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-3.7.5.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.5"
+            },
+            {
+                "name": "电视端(海信)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-hisense-3.7.5.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.5"
+            },
+            {
+                "name": "电视端(64位)安卓5",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-3.7.2_5.x.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.2"
+            },
+            {
+                "name": "电视端(32位)安卓5",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-3.7.2_5.x.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "3.7.2"
+            }
+        ]
+    },
+    {
+        "name": "OK影视Pro",
+        "list": [
+            {
+                "name": "手机端(64位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.6.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "5.0.6"
+            },
+            {
+                "name": "手机端(模拟器)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.6_x.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "5.0.6"
+            },
+            {
+                "name": "电视端(64位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-5.0.6.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "5.0.6"
+            },
+            {
+                "name": "电视端(32位)",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-5.0.6.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "5.0.6"
+            }
+        ]
+    },
+    {
+        "name": "Fongmi影视",
+        "list": [
+            {
+                "name": "手机端(64位)",
+                "url": "https://gh.nxnow.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "手机端(32位)",
+                "url": "https://gh.nxnow.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "电视端(64位)",
+                "url": "https://gh.nxnow.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "电视端(32位)",
+                "url": "https://gh.nxnow.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            }
+        ]
+    }
+]

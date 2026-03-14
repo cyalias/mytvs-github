@@ -1,0 +1,103 @@
+[
+    {
+        "name": "常用壳",
+        "list": [
+            {
+                "name": "ok影视手机版",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=OKSJ64.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "64位"
+            },
+            {
+                "name": "OK影视电视版",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV32.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "通用版"
+            },
+            {
+                "name": "OK影视电视版",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=OKTV64.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "64位"
+            },
+            {
+                "name": "IPTVPRO",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=IPTV32.apk",
+                "icon": "https://ricolj.github.io/tp/iptvpro.png",
+                "version": "32位"
+            },
+            {
+                "name": "IPTVPRO",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=IPTV64.apk",
+                "icon": "https://ricolj.github.io/tp/iptvpro.png",
+                "version": "64位"
+            },
+            {
+                "name": "酷九",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=k932.apk",
+                "icon": "https://ricolj.github.io/tp/k9.png",
+                "version": "32位"
+            },
+            {
+                "name": "酷九",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=k964.apk",
+                "icon": "https://ricolj.github.io/tp/k9.png",
+                "version": "64位"
+            }
+        ]
+    },
+    {
+        "name": "工具",
+        "list": [
+            {
+                "name": "甲壳虫ADB",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=jkc.apk",
+                "icon": "https://ricolj.github.io/tp/jkc.png",
+                "version": "工具"
+            },
+            {
+                "name": "网络优化大师",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=wlyh.apk",
+                "icon": "https://ricolj.github.io/tp/wlyh.png",
+                "version": "工具"
+            },
+            {
+                "name": "小白一键清理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=xbql.apk",
+                "icon": "https://ricolj.github.io/tp/xbql.png",
+                "version": "工具"
+            },
+            {
+                "name": "小白文件管理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=xbwj.apk",
+                "icon": "https://ricolj.github.io/tp/xbwj.png",
+                "version": "工具"
+            },
+            {
+                "name": "应用管理",
+                "url": "http://xz.rihou.cc:88/xz.apk?id=yygj.apk",
+                "icon": "https://ricolj.github.io/tp/yygj.png",
+                "version": "工具"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "VOX",
+                "url": "http://xw.123234567.xyz:60255/jiduo/vox本地包.zip",
+                "icon": "http://xw.123234567.xyz:60255/jiduo/1.jpg",
+                "copy": "",
+                "version": "本地包"
+            },
+            {
+                "name": "说明",
+                "url": "http://xw.123234567.xyz:60255/jiduo/README.txt",
+                "icon": "http://xw.123234567.xyz:60255/jiduo/2.jpg",
+                "copy": "",
+                "version": "README"
+            }
+        ]
+    }
+]

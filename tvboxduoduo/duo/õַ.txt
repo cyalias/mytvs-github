@@ -1,0 +1,1 @@
+clan://localhost/tvbox/duo/duo.json

@@ -80,8 +80,82 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://www.jiabaide.cn",
+        "site": "https://www.ksnnhbj.com",
         "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "GuaZi",
+      "name": "瓜子影视",
+      "type": 3,
+      "api": "csp_GuaZi",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "聚合短剧",
+      "name": "聚合短剧",
+      "type": 3,
+      "api": "csp_JuheShortDrama",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "host": {
+          "百度": "https://api.jkyai.top",
+          "甜圈": "https://mov.cenguigui.cn",
+          "锦鲤": "https://api.jinlidj.com",
+          "番茄": "https://reading.snssdk.com",
+          "番茄2": "https://fqgo.52dns.cc",
+          "星芽": "https://app.whjzjx.cn",
+          "星芽登录": "https://u.shytkjgs.com",
+          "西饭": "https://xifan-api-cn.youlishipin.com",
+          "七猫": "https://api-store.qmplaylet.com",
+          "七猫详情": "https://api-read.qmplaylet.com",
+          "围观": "https://api.drama.9ddm.com",
+          "碎片": "https://free-api.bighotwind.cc",
+          "碎片图片": "https://speed.hiknz.com"
+        },
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "Ikanbot",
+      "name": "爱看机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "FourKZN",
+      "name": "网盘 | 4k指南",
+      "type": 3,
+      "api": "csp_FourKZN",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "观影",
+      "name": "网盘 | 观影",
+      "type": 3,
+      "api": "csp_GuanYing",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "https://www.gyg.la/",
+        "username": "",
+        "password": ""
       }
     },
     {
@@ -111,6 +185,22 @@
       }
     },
     {
+      "key": "pansou | fish",
+      "name": "pansou | fish",
+      "type": 3,
+      "api": "csp_PanSouFish",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "https://pansou-latest-hv4k.onrender.com",
+        "filter": {
+          "include": ["HDR","高码"],
+          "exclude": ["预告", "花絮"]
+        },
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
       "key": "Emby",
       "name": "Emby",
       "type": 3,
@@ -126,7 +216,8 @@
         "password": "23",
         "ua": "Yamby/1.0.2(Android)",
         "client": "Yamby",
-        "deviceName": "",
+        "clientVersion": "0.2.3",
+        "deviceName": "oppo find x9 pro",
         "commonConfig": "./json/peizhi.json"
       },
       "changeable": 1
@@ -160,7 +251,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://api.muxia.fun",
+        "siteUrl": "https://bt.muxia.fun/api",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -178,15 +269,15 @@
     //      }
     //    },
     {
-      "key": "玩偶 | 大玩偶",
-      "name": "玩偶 | 大玩偶",
+      "key": "玩偶 | 木偶",
+      "name": "玩偶 | 木偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "http://149.88.87.18:6688/",
+        "siteUrl": "https://www.muou.site/",
         "filter": "./json/wogg.json"
       }
     },
@@ -212,7 +303,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./json/peizhi.json",
-        "siteUrl": "https://erxiaofn.click/",
+        "siteUrl": "https://wexwp.cc/",
         "filter": "./json/wogg.json"
       }
     },
@@ -316,7 +407,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "https://star.banye.tech:7183/",
+        "siteUrl": "https://1.star2.cn/",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -382,6 +473,7 @@
       },
       "ext": {
         "json": "./json/bilibili.json",
+        "commonConfig": "./json/peizhi.json",
         "cookie": ""
       }
     },

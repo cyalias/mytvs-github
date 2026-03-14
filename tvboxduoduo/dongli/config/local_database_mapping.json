@@ -1,0 +1,238 @@
+{
+    "version": "3.0",
+    "databases": {
+        "movie_ea5fb": {
+            "name": "🎬 配置参考",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/movie_ea5fb.db",
+            "count_query": "SELECT COUNT(*) FROM vod_unified_data",
+            "category_count_query": "SELECT type_name, COUNT(*) FROM vod_unified_data GROUP BY type_name",
+            "categories_query": "SELECT DISTINCT type_name, type_name FROM vod_unified_data WHERE type_name IS NOT NULL AND type_name != '' ORDER BY type_name",
+            "tables": {
+                "main": {
+                    "table_name": "vod_unified_data",
+                    "category_filter_field": "type_name",
+                    "search_fields": [
+                        "vod_name",
+                        "vod_actor",
+                        "vod_director"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "vod_id",
+                        "vod_name": "vod_name",
+                        "vod_pic": "vod_pic",
+                        "type_name": "type_name",
+                        "vod_actor": "vod_actor",
+                        "vod_director": "vod_director",
+                        "vod_content": "vod_content",
+                        "vod_play_from": "vod_play_from",
+                        "vod_play_url": "vod_play_url",
+                        "vod_remarks": "vod_remarks",
+                        "vod_year": "vod_year",
+                        "vod_area": "vod_area"
+                    }
+                }
+            }
+        },
+        "movie_b8b5e": {
+            "name": "🎬 movie_b8b5e",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/movie_b8b5e.db",
+            "count_query": "SELECT COUNT(*) FROM vod_unified_data",
+            "category_count_query": "SELECT type_name, COUNT(*) FROM vod_unified_data GROUP BY type_name",
+            "categories_query": "SELECT DISTINCT type_name, type_name FROM vod_unified_data WHERE type_name IS NOT NULL AND type_name != '' ORDER BY type_name",
+            "tables": {
+                "main": {
+                    "table_name": "vod_unified_data",
+                    "category_filter_field": "type_name",
+                    "search_fields": [
+                        "vod_name"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "vod_id",
+                        "vod_name": "vod_name",
+                        "vod_pic": "_IGNORE_FIELD_",
+                        "type_name": "type_name",
+                        "vod_play_url": "vod_play_url",
+                        "vod_actor": "_IGNORE_FIELD_",
+                        "vod_director": "_IGNORE_FIELD_",
+                        "vod_remarks": "_IGNORE_FIELD_",
+                        "vod_pubdate": "_IGNORE_FIELD_",
+                        "vod_area": "_IGNORE_FIELD_",
+                        "vod_year": "_IGNORE_FIELD_",
+                        "vod_content": "_IGNORE_FIELD_"
+                    }
+                }
+            }
+        },
+        "song_b4d4b": {
+            "name": "🎵 song_b4d4b.db",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/song_b4d4b.db",
+            "count_query": "SELECT COUNT(*) FROM songs",
+            "category_count_query": "SELECT genre, COUNT(*) FROM songs GROUP BY genre",
+            "categories_query": "SELECT DISTINCT genre, genre FROM songs WHERE genre IS NOT NULL AND genre != '' ORDER BY genre",
+            "tables": {
+                "main": {
+                    "table_name": "songs",
+                    "category_filter_field": "genre",
+                    "search_fields": [
+                        "song_name"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "id",
+                        "vod_name": "song_name",
+                        "vod_pic": "_IGNORE_FIELD_",
+                        "type_name": "genre",
+                        "vod_play_url": "url",
+                        "vod_remarks": "created_at"
+                    }
+                }
+            }
+        },
+        "song_aed2f": {
+            "name": "🎵 配置参考0",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/song_aed2f.db",
+            "count_query": "SELECT COUNT(*) FROM song",
+            "category_count_query": "SELECT type_id, COUNT(*) FROM song GROUP BY type_id",
+            "categories_query": "SELECT id, name FROM song_type ORDER BY id",
+            "tables": {
+                "main": {
+                    "table_name": "song AS T1 JOIN song_type AS T2 ON T1.type_id = T2.id",
+                    "category_filter_field": "T1.type_id",
+                    "search_fields": [
+                        "T1.name",
+                        "T1.singer_names"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "T1.id",
+                        "vod_name": "T1.name",
+                        "vod_pic": "T1.url",
+                        "type_name": "T2.name",
+                        "vod_actor": "T1.singer_names",
+                        "vod_content": "T1.edition",
+                        "vod_play_url": "'http://em.21dtv.com/songs/' || T1.number || '.' || T1.format",
+                        "vod_remarks": "T1.format"
+                    }
+                }
+            }
+        },
+        "lsp_d1944": {
+            "name": "🎬 配置参考1",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/lsp_d1944.db",
+            "count_query": "SELECT COUNT(*) FROM videos",
+            "category_count_query": "SELECT category_id, COUNT(*) FROM videos GROUP BY category_id",
+            "categories_query": "SELECT id, name FROM categories ORDER BY id",
+            "tables": {
+                "main": {
+                    "table_name": "videos AS T1 JOIN categories AS T2 ON T1.category_id = T2.id",
+                    "category_filter_field": "T1.category_id",
+                    "search_fields": [
+                        "T1.name",
+                        "T1.actor"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "T1.id",
+                        "vod_name": "REPLACE(REPLACE(T1.name, '目录', ''), '为你推荐', '')",
+                        "vod_pic": "T1.image",
+                        "type_name": "T2.name",
+                        "vod_content": "T1.content",
+                        "vod_play_url": "T1.play_url",
+                        "vod_remarks": "T1.remarks"
+                    }
+                }
+            }
+        },
+        "lsp_eb2984": {
+            "name": "🎬 配置参考2",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/eb2984.db",
+            "count_query": "SELECT COUNT(*) FROM videos",
+            "category_count_query": "SELECT cate_id, COUNT(*) FROM videos GROUP BY cate_id",
+            "categories_query": "SELECT DISTINCT cate_id, cate_name FROM videos WHERE cate_id IS NOT NULL AND cate_name IS NOT NULL AND cate_name != '' ORDER BY cate_id",
+            "tables": {
+                "main": {
+                    "table_name": "videos",
+                    "category_filter_field": "cate_id",
+                    "search_fields": [
+                        "title"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "id",
+                        "vod_name": "REPLACE(REPLACE(REPLACE(title, '目录', ''), '为你推荐', ''), '', '')",
+                        "vod_pic": "pic",
+                        "type_name": "cate_name",
+                        "vod_content": "cate_name",
+                        "vod_play_url": "play_url",
+                        "vod_remarks": "cate_name"
+                    }
+                }
+            }
+        },
+        "lsp_9b0a3": {
+            "name": "🎬 配置参考3",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/9b0a3.db",
+            "count_query": "SELECT COUNT(*) FROM videos",
+            "category_count_query": "SELECT category_id, COUNT(*) FROM videos GROUP BY category_id",
+            "categories_query": "SELECT id, name FROM categories ORDER BY id",
+            "tables": {
+                "main": {
+                    "table_name": "videos AS T1 JOIN categories AS T2 ON T1.category_id = T2.id",
+                    "category_filter_field": "T1.category_id",
+                    "search_fields": [
+                        "T1.name"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "T1.id",
+                        "vod_name": "T1.name",
+                        "vod_pic": "T1.image",
+                        "type_name": "T2.name",
+                        "vod_content": "T1.content",
+                        "vod_play_url": "T1.play_url",
+                        "vod_remarks": "T1.remarks"
+                    }
+                }
+            }
+        },
+        "lsp_d4788": {
+            "name": "🎬配置参考4",
+            "valid": 1,
+            "hide": 0,
+            "path": "/storage/emulated/0/dp/db/d4788.db",
+            "count_query": "SELECT COUNT(*) FROM cj",
+            "category_count_query": "SELECT type_name, COUNT(*) FROM cj GROUP BY type_name",
+            "categories_query": "SELECT DISTINCT type_name, type_name FROM cj WHERE type_name IS NOT NULL AND type_name != '' ORDER BY type_name",
+            "tables": {
+                "main": {
+                    "table_name": "cj",
+                    "category_filter_field": "type_name",
+                    "search_fields": [
+                        "vod_name",
+                        "vod_actor"
+                    ],
+                    "field_mapping": {
+                        "vod_id": "vod_id",
+                        "vod_name": "vod_name",
+                        "vod_pic": "vod_pic",
+                        "type_name": "type_name",
+                        "vod_actor": "vod_actor",
+                        "vod_content": "vod_content",
+                        "vod_play_from": "vod_play_from",
+                        "vod_play_url": "vod_play_url",
+                        "vod_remarks": "vod_remarks"
+                    }
+                }
+            }
+        }
+    }
+}

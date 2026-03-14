@@ -15,11 +15,6 @@
             "type": 0,
             "url": "./lives/Tianmu.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-        },
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "./lives/fanmingming.txt"
         }
     ],
     "sites": [
@@ -106,16 +101,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_SeedHub",
-            "name": "🧲SeedHub",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.seedhub.cc"
-        },
-        {
             "key": "csp_MeijuTT",
             "name": "🧲美剧天堂",
             "type": 3,
@@ -189,15 +174,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/哔嘀影视.json"
-        },
-        {
-            "key": "csp_Ddys",
-            "name": "🐞低端影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_JianPian",
@@ -300,16 +276,6 @@
             "ext": "./json/戏曲多多.json"
         },
         {
-            "key": "csp_XYQHiker_短剧屋",
-            "name": "🎬短剧屋",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧屋.json"
-        },
-        {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝(XYQH)",
             "type": 3,
@@ -340,14 +306,14 @@
             "ext": "./json/播视童趣.json"
         },
         {
-            "key": "csp_XYQHiker_风车动漫",
-            "name": "🌪风车动漫(XYQH)",
+            "key": "csp_XYQHiker_风铃动漫",
+            "name": "🛎风铃动漫(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/风车动漫.json"
+            "ext": "./json/风铃动漫.json"
         },
         {
             "key": "csp_XYQHiker_樱花动漫",
@@ -390,8 +356,48 @@
             "ext": "./json/动漫巴士.json"
         },
         {
+            "key": "csp_XYQHiker_路漫漫",
+            "name": "路漫漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/路漫漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_番茶动漫",
+            "name": "番茶动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/番茶动漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_age动漫",
+            "name": "AGE动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/age动漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_短剧五五",
+            "name": "🎬短剧五五",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧五五.json"
+        },
+        {
             "key": "csp_XYQHiker_农民影视",
-            "name": "🧑🏻‍农民影视",
+            "name": "🧑🏻农民影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -421,26 +427,6 @@
             "ext": "./json/骚火电影VIP.json"
         },
         {
-            "key": "csp_XYQHiker_电影盒子",
-            "name": "📦电影盒子",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影盒子.json"
-        },
-        {
-            "key": "csp_XYQHiker_可可影视",
-            "name": "☕️可可影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/可可影视.json"
-        },
-        {
             "key": "csp_XYQHiker_爱看影视",
             "name": "👀爱看影视(XYQH)",
             "type": 3,
@@ -449,6 +435,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/爱看影视.json"
+        },
+        {
+            "key": "csp_XYQHiker_爱看电影",
+            "name": "爱看电影(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱看电影.json"
+        },
+        {
+            "key": "csp_XYQHiker_低端影视",
+            "name": "低端影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/低端影视.json"
         },
         {
             "key": "csp_XYQHiker_看影网",
@@ -461,24 +467,14 @@
             "ext": "./json/看影网.json"
         },
         {
-            "key": "csp_XYQHiker_瓜子影院",
-            "name": "瓜子影院(XYQH)",
+            "key": "csp_XYQHiker_好影快看",
+            "name": "好影快看(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/瓜子影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_八号影视",
-            "name": "8️⃣八号影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/八号影视.json"
+            "ext": "./json/好影快看.json"
         },
         {
             "key": "csp_XYQHiker_来看点播",
@@ -845,6 +841,7 @@
                 "30.08",
                 "44.00",
                 "36.80",
+                "40.68",
                 "29.08",
                 "29.28",
                 "24.88"
@@ -861,6 +858,18 @@
             "regex": [
                 "16.63",
                 "17.66"
+            ]
+        },
+        {
+            "hosts": [
+                "dytt-hot"
+            ],
+            "name": "dytt",
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.800000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.566667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.900,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {

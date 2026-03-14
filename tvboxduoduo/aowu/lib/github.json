@@ -1,0 +1,20 @@
+[
+    {
+        "author": "FongMi",
+        "repositories": "Release",
+        "branches": "fongmi",
+        "type_name": "FM商店"
+    },
+    {
+        "author": "FongMi",
+        "repositories": "TV",
+        "branches": "release",
+        "type_name": "TV"
+    },
+    {
+        "author": "FongMi",
+        "repositories": "CatVodSpider",
+        "branches": "main",
+        "type_name": "CatVodSpider"
+    }
+]
