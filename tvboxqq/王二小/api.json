@@ -1,4 +1,4 @@
-﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
+﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
     "spider": "./spider.jar",
@@ -13,17 +13,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/1767300502404G_ouRK.txt"
+            "ext": "./txt/20260414181247-ae51abfbfe.txt"
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260225】🐮",
+            "name": "🐮【更新日期:20260416】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/1767300502404G_ouRK.txt"
+            "ext": "./txt/20260414181247-ae51abfbfe.txt"
         },
         {
             "key": "Doubana",
@@ -33,7 +33,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/1767300502404G_ouRK.txt"
+            "ext": "./txt/20260414181247-ae51abfbfe.txt"
         },
         {
             "key": "Wexconfig",
@@ -117,6 +117,14 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 120
+        },
+        {
+            "key": "原盘",
+            "name": "💓‍原盘┃4K💓‍",
+            "type": 3,
+            "api": "csp_New4KZnGuard",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "雷鲸",
@@ -207,22 +215,6 @@
             "changeable": 1
         },
         {
-            "key": "WexYunYun",
-            "name": "💥云云┃秒播💥",
-            "type": 3,
-            "api": "csp_WexYunYunGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexXiongYing",
-            "name": "💥雄鹰┃秒播💥",
-            "type": 3,
-            "api": "csp_WexXiongYingGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "WexBoBo",
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
@@ -303,14 +295,6 @@
             "changeable": 1
         },
         {
-            "key": "DuanJuTianQuan",
-            "name": "🍉短剧┃小圈🍉",
-            "type": 3,
-            "api": "csp_DuanJuTianQuanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "DuanJuXingYa",
             "name": "🍉短剧┃星星🍉",
             "type": 3,
@@ -319,26 +303,10 @@
             "changeable": 1
         },
         {
-            "key": "DuanJuSuiPian",
-            "name": "🍉短剧┃碎片🍉",
-            "type": 3,
-            "api": "csp_DuanJuSuiPianGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "DuanJuWeiGuan",
             "name": "🍉短剧┃小薇🍉",
             "type": 3,
             "api": "csp_DuanJuWeiGuanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "DuanJuJinLi",
-            "name": "🍉短剧┃小丽🍉",
-            "type": 3,
-            "api": "csp_DuanJuJinLiGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -359,18 +327,18 @@
             "changeable": 1
         },
         {
-            "key": "AnimeXiFan",
-            "name": "🤡稀饭┃动漫🤡",
+            "key": "AnimeFanShu",
+            "name": "🤡番薯┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeXiFanGuard",
+            "api": "csp_AnimeFanShuGuard",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "AnimeYHDM",
-            "name": "🤡巴士┃动漫🤡",
+            "key": "AnimeXiFan",
+            "name": "🤡稀饭┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeYHDMGuard",
+            "api": "csp_AnimeXiFanGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -383,10 +351,35 @@
             "changeable": 1
         },
         {
+            "key": "BookYueTing",
+            "name": "🎃‍悦庭┃听书🎃",
+            "type": 3,
+            "api": "csp_BookYueTingGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },
+        {
             "key": "BookWuWei",
             "name": "🎃‍无忧┃听书🎃",
             "type": 3,
             "api": "csp_BookWuWeiGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "BookTingShu",
+            "name": "🎃‍精品┃听书🎃",
+            "type": 3,
+            "api": "csp_BookTingShuGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Book23TingShu",
+            "name": "🎃‍爱上┃听书🎃",
+            "type": 3,
+            "api": "csp_Book23TingShuGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -451,10 +444,46 @@
             }
         },
         {
+            "key": "MusicLiYuan",
+            "name": "🎎戏曲┃秒播🎎",
+            "type": 3,
+            "api": "csp_MusicLiYuanGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
+        },
+        {
+            "key": "MusicQingTing",
+            "name": "🎼蜻蜓┃电台🎼",
+            "type": 3,
+            "api": "csp_MusicQingTingGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "MusicIKtv",
             "name": "🎼KTV┃音乐🎼",
             "type": 3,
             "api": "csp_MusicIKtvGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Music163",
+            "name": "🎼易听┃音乐🎼",
+            "type": 3,
+            "api": "csp_Music163Guard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicKuWo",
+            "name": "🎼酷听┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicKuWoGuard",
             "searchable": 1,
             "changeable": 0
         },
@@ -481,40 +510,58 @@
             "key": "bilibili",
             "name": " 🅱‍哔哩┃合集🅱‍",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./txt/bili001.txt"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+            }
         },
         {
             "key": "bilixiqu",
             "name": " 🅱‍哔哩┃戏曲🅱‍",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./txt/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+            }
         },
         {
             "key": "biliych",
             "name": " 🅱‍哔哩┃歌曲🅱‍",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./txt/bilisong.txt"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+            }
         },
         {
             "key": "少儿教育",
             "name": "📚少儿┃教育📚",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -522,13 +569,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./txt/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
+            }
         },
         {
             "key": "小学课堂",
             "name": "📚小学┃课堂📚",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -536,13 +585,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./txt/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
+            }
         },
         {
             "key": "初中课堂",
             "name": "📚初中┃课堂📚",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -550,13 +601,15 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./txt/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
+            }
         },
         {
             "key": "高中教育",
             "name": "📚高中┃课堂📚",
             "type": 3,
-            "api": "csp_NewBiLiGuard",
+            "api": "csp_BiliGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -564,7 +617,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./txt/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
+            }
         },
         {
             "key": "SportGuaZi",

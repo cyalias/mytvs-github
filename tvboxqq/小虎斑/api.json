@@ -1,4 +1,4 @@
-﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
+﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
     "spider": "./spider.jar",
@@ -14,7 +14,7 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "导航|新春贺喜(虎)",
+            "name": "导航|万事顺遂",
             "type": 3,
             "api": "csp_Douban",
             "ext": "./json/douban.json"
@@ -55,13 +55,6 @@
             }
         },
         {
-            "key": "知秋",
-            "name": "知秋|弹幕",
-            "type": 3,
-            "api": "csp_MYzhiqiu",
-            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-        },
-        {
             "key": "独播",
             "name": "独播|弹幕",
             "type": 3,
@@ -85,13 +78,6 @@
             "name": "全网|短剧",
             "type": 4,
             "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
-        },
-        {
-            "key": "duanju",
-            "name": "破碎|短剧",
-            "type": 3,
-            "api": "csp_HBsuipian",
-            "ext": "https://speed.howdbm.com/papaya/papaya-file/files/download/"
         },
         {
             "key": "B站直播",
@@ -422,12 +408,6 @@
             }
         },
         {
-            "key": "苹果",
-            "name": "苹果|弹幕",
-            "type": 3,
-            "api": "csp_HBPguo"
-        },
-        {
             "key": "天天",
             "name": "天天|弹幕",
             "type": 3,
@@ -680,7 +660,12 @@
         {
             "name": "自定：请先设置",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getuserjx&url="
+        },
+        {
+            "name": "布偶",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
         },
         {
             "name": "晴天4K Q1026038872",
@@ -688,45 +673,20 @@
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
         },
         {
+            "name": "虎斑AB",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
+        },
+        {
             "name": "虎斑XM",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
             "ext": {
                 "header": {
                     "Accept": "*/*",
                     "Origin": "https://jx.xmflv.com"
                 }
             }
-        },
-        {
-            "name": "虎斑szy",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
-        },
-        {
-            "name": "虎斑mt4K",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
-        },
-        {
-            "name": "虎斑HJ",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
-        },
-        {
-            "name": "虎斑WS",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
-        },
-        {
-            "name": "虎斑AB",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-        },
-        {
-            "name": "虎斑V6",
-            "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
         }
     ],
     "flags": [

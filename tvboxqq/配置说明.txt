@@ -12,6 +12,9 @@
 ④：请不要解压到其它位置，否则无法使用！
 
 
+🌟视频教程：自行搜索视频号“奇奇乐分享”
+
+
 🌟本地包的优点是加载源相对比较快，可以避免在线接口服务器出故障或被屏蔽，导致无法加载的问题，但资源播放效果是一样的。
 
 使用在线接口，可以躺平大佬维护更新，而本地包需要手动更新文件，如果平时使用正常的话，无需追更最新包！
@@ -26,9 +29,7 @@
 🌟本地包更新时间，请关注资源推荐合集：
  http://a.qiqiv.cn/zy.php
 
- 关注微信公众号：奇奇乐分享，发送“本地包”，获取更多本地包与图文视频教程。
-
- 备用公众号：奇奇干货库
+ 微信公众号：奇奇资源库
 
  本地包仅供测试交流，请勿内置传播与转卖；不推荐新手食用本地包，公众号提供的教程都是以前写的，仅供参考，不再编辑新的教程。
 
@@ -45,9 +46,9 @@ clan://localhost/tvboxqq/王二小/api.json
 
 clan://localhost/tvboxqq/OK/api.json
 
-clan://localhost/tvboxqq/潇洒/api.json
-
 clan://localhost/tvboxqq/摸鱼儿/api.json
+
+clan://localhost/tvboxqq/潇洒/api.json
 
 clan://localhost/tvboxqq/小虎斑/api.json
 
@@ -79,11 +80,11 @@ https://9280.kstore.vip/newwex.json
 http://ok213.top/ok
 （OK）
 
-https://9877.kstore.space/AnotherD/api.json
-（潇洒）
-
 http://我不是.摸鱼儿.com
 （摸鱼儿）
+
+https://9877.kstore.space/AnotherD/api.json
+（潇洒）
 
 http://hb.小虎斑.site:25252/仅供测试
 

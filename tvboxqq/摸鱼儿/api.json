@@ -1,8 +1,8 @@
-﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
+﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
     "spider": "./spider.jar",
-    "logo": "https://pubali.oss-cn-hangzhou.aliyuncs.com/20260313/150900_/m69fVxgaodm7/logo.gif",
+    "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "sites": [
         {
@@ -45,7 +45,7 @@
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz"
                 ],
-                "filter": "https://open.wya6.com/d/down/2026/json/wogg.json"
+                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
             }
         },
         {
@@ -96,7 +96,7 @@
             "api": "csp_Zwqf",
             "searchable": 1,
             "ext": {
-                "url": "https://fishapi.wya6.com/fish/qingfeng/moyu.php",
+                "url": "http://我不是.摸鱼儿.com/api/feng/moyu.php",
                 "token": "moyu996"
             }
         },
@@ -110,7 +110,7 @@
         },
         {
             "key": "Kan360",
-            "name": "倦枕｜星河",
+            "name": "流离｜寒鸦",
             "type": 3,
             "api": "csp_Kan360",
             "searchable": 1,
@@ -141,16 +141,7 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AS489lHIPXXnFM64nq+j83AKsZBAWHJxiolcdAQhVx+XVHnaLVj3OiTSytruFyLqxsmm1AhgdalU+scPnz4hkUu01Ppy9Ttysn+LieUGod/lwmSMJ4CVW/EDO33YUhidr+lqJcnx7APcA2mG4Y+5AmEYH2Wol6qcFUo1sogtH+iYZ/YXtoPKCywF1JMyBjfj7Pn83+MTjKTUrb53bT4gJlw="
-        },
-        {
-            "key": "明玦",
-            "name": "明玦｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AaIkDkIeL0bF5foLGJpX+cbUjv1IbY05okz9VBt5znOYXxZtodjbPHHdcEg6FdVbb9WW7sl623Wj49ZNOxTIHR9cruqS3Rcl5VJPgjC/JLvofUwvzUraVUMLTIxvs2j5L4vg/hN1o5TDRbWkq8SrCRxY2QopBTqPw75C/ECyvBQlV3NZjWlbu5YUr8jGhJJfdJ7o1gh6Xeg0pGMngVpBeDuQDhdUmkvCl658cEP/Oics"
+            "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI="
         },
         {
             "key": "厌离",
@@ -165,71 +156,37 @@
             "key": "枫眠",
             "name": "枫眠｜APP",
             "type": 3,
-            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "ASeCaY5Xxcx0BdbJGIqllhkRBuCPwC/Kv1uDvURkfncW+fNupjJjBKERvDuCKL7Nc8bCYJ/Fboktq3geJgU0aE2SxOjoiU03IEtvv1np76XEOBn7dBJNwW8toIqv9PBY9T18yzCX3DoyksVEv01kRtBDqSTgbilbqOHhtNEm+L3ti2PLM08SEhkA/nE//PAwfIVtUWhsYKorNLuB7RxQ2Egqj4D7q7Tw3sH/yNbHthqw"
+            "api": "csp_AppGet",
+            "ext": "Abaytv6c/ao6k3MOe8cmqYRT2++1bDYrSAcfNff+UDBD7Bma6/58Uxk1lDmqQrdNXZJOsNa6W5GXD6k8FaKx/UfPZ9iGPn++ZOrs0Dp67lYfnKFfcMkfodFdpX0mMBAwAINXLTlwK78IPsgKoQL2I8BrRqi22tySDoZwf1ihgGvRUEC2EotRGaQELl27kTXFDaczj3G67aCQKZ9ubJUz02A="
         },
         {
             "key": "思追",
             "name": "思追丨APP",
             "type": 3,
+            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": "AZMWjtBVHqg1eqc24zPBCnp+8nUMJ1DhABffeziVNB/hZ1AHDr9HynmQ7Hea0MJa9TQvImvwo+VcBjCulptXIj6796jroFgU16XtcGODMtfDJ8RJjrEa+2QJ1eVamXkB+N3GrowCHjQsVd5GK4QAxVeW7oVMa/kmxFpF4XWFHhz5YGcXOSxIhznhRlZln5Ap8sol6sjWUfBhblNbLgjDBzKdTxu/NjbUZFhO8y6IP8SZhvrY0CxMo8/Kp6AnCYGRyA=="
+            "ext": "AXSPv1QTX2YODCabxYrWbjsonWnChCniisnkjUUKrxIvZiN5ZktdpPDujWS4CAfVWUrveohU/an8/qxoDr0wQVRV3lQOXz6ywxR0zjhG9ORIdfxw5I7qLcNJe+qiBm1wqruUd1Yz51BKS05LZ0w2Be5fhRK1oc5kmaIaf0iKyvrN85ApJLoJBEKsUzh+wdVgr5Dx69uvVk+tq/QcoUDCKC8="
         },
         {
             "key": "琼林",
             "name": "琼林｜APP",
             "type": 3,
-            "api": "csp_AppQi",
-            "ext": "AW8zc43nkd9VeK5DW/DjDZZyQ8CitfFSJkst0xRXhXKcj6hD8v1lusJ6ESqiEdq4U9Sr7SwyYTtqa4cJasPcQfIJNNXAbtzzK1SRuX5y5rV0MoS7+vWxG8iPCQvXee+amQTW4IiuoWX3HVnOSd+ViPayPdXO+rvvR+ymyTYToZAW8UikQ/chpFk3HKJ+bLBq/FejMjlZvZdbCyM/3ZYxY9E="
-        },
-        {
-            "key": "金牌",
-            "name": "金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": {
-                "url": "https://qj3.ggtvb.cc",
-                "dataKey": "eecbio48dsq13kkk",
-                "dataIv": "eecbio48dsq13kkk",
-                "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
+            "ext": "AcypoLshXevaIwOchXsBiqVf7biLBwhTaXaYdcHA/t0fxoRZzxiPzwGnjZloUZJZJCCZCpLRBLloE5f+AW99EejxMtfNbZDoLH1X93KzLQ9LG8OXt9CHd/XEdN1n84kpwTxP5c9LF3ai3g+rq0wwqg+FzphyK0RQOCgjZT6PwiaOxBDQn1JVMQx0QG2uWNnvAhN75N08N9LkABpolWUReeA="
         },
         {
-            "key": "忘机",
-            "name": "忘机｜APP",
+            "key": "秒看",
+            "name": "秒看｜APP",
             "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ARIf/javCFZrnb7bhwzDQ1I/gYi3vwqodTXDNuHLJQLoHd59j15mVOndyVuPO6QgZdzkptgM5xHcyglZVNZ5Y03yB+SaFazAu3GCkMHSzwpbm/dSSiQ8OxQeetnxiSz91ibY5976IFoMCFopDPhKbYNTr7teWVcVWi20mwhdkrg3Ul7mJ8cYHqa57ZUYzAH1Ab4ht/EMVZSnHosw6B+3jUNcHywS4S4CgRS+0BRsZFNaTcutrXgEYm7d12jGjT9cj7XmK0cj+2mV6zrCROKE+wUb6bLDVrtsxwHLykBah4DLQIlRxqKtSkCA3NU1U+Zlb800G77DrCf3g86bItws62w="
-        },
-        {
-            "key": "曦臣",
-            "name": "曦臣｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "AcQgxCZJh0zfuqWhi3EWO0lHZHvcxjcjkSwh/L0j5HEY9Fq3+o2hdqQXb/2viRHayRmBY64JuCWIkKKgRdpy650qa/qp5Yx5LMXbHLNBOw7Y2ZGmPIKIXZw4s07EI1OuOTxg5Jj1a2VvZaGGrWPO5Zx84C6LNBDniS3O/XXNtDexGf7mP03SjlVcLkS00BSjgZJIy7PZA3fuP0lUeIdK+T0JzxKFrX5IxrgxOGYTCb4UUXOKaASBFqPcbpdj1SMNkCxWhqz9lcA8n+r81dRn4TMOKoyFaxJmX3DfKc1UzGgH"
-        },
-        {
-            "key": "景仪",
-            "name": "景仪｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AXBlmIaXssBpd3Fa+kwjwLQb1/iS17U9n98QF7PrEQQBsrDqGYa/UHvP9eMSQFc7xxy63YaGklVEc+zsxq7CHCQEnNfRoaZdDnwsUwKmWxnYn4lRh3CRnB6gOvpRkamwTzo6Ytzy0enTk/xpedKn+Z8DUSn7CsdzN51bXQA8I2K32X7yAnnIKXwZfslGY5H8Y0eMEYSLh/Ny+xy2UQO2jT7GrWI9Ih8uT6wSdIXGXAnpjySRe5YMMXwVltzCkBw0Ow=="
+            "ext": "AVlCCt+oOgyuCbgzPqfoCV8aVKt6GVz95SmNTP/fjcYOaI/FHSztIzyB71UwnDj8Wl8vIJ8/EHCs6roRZVoZIXpZqMCsWfq1iRvgEIv9guv2R58kKcfzyjbYEKyJaNJ62TAai1SQAGgKyYO3cIVjpmmVTQN7qyQimzAst8ulMljg+BGAg+B53sn58TnLVM0KzVeba8CvHR/qdOmiXcmoIGf6HtPEOI/4/EIeBhf05qkJ2XBHZaoTQhRzV65NzZxhkSsf/KUw+p1cFdBEsTMqrjRZp+nWvBrgI6vKk9WCS2Vd0m6NJ2iZAG8xq/Q8pGKIjA=="
         },
         {
             "key": "麒麟",
@@ -256,6 +213,33 @@
             }
         },
         {
+            "key": "KZN",
+            "name": "指南｜4K",
+            "type": 3,
+            "api": "csp_KZN",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Qiwei",
+            "name": "七味｜4K",
+            "type": 3,
+            "api": "csp_Qiwei",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": {
+                "site": [
+                    "https://www.qwnull.com",
+                    "https://www.qwmkv.com",
+                    "https://www.qwfilm.com",
+                    "https://www.qnmp4.com",
+                    "https://www.qnnull.com",
+                    "https://www.qnhot.com",
+                    "https://www.qncool.com"
+                ]
+            }
+        },
+        {
             "key": "gying",
             "name": "观影｜4K",
             "type": 3,
@@ -266,14 +250,14 @@
             "ext": {
                 "cookie": "",
                 "site": [
-                    "https://www.gying.si",
-                    "https://www.gying.org",
-                    "https://www.gying.net",
-                    "https://www.gying.in",
-                    "https://www.gying.st",
-                    "https://www.gyg.la",
-                    "https://www.gyg.si",
-                    "https://www.gyg.st"
+                    "https://www.教父.com",
+                    "https://www.星际穿越.com",
+                    "https://www.楚门的世界.com",
+                    "https://www.泰坦尼克号.com",
+                    "https://www.盗梦空间.com",
+                    "https://www.肖申克的救赎.com",
+                    "https://www.阿甘正传.com",
+                    "https://www.黑客帝国.com"
                 ]
             }
         },
@@ -360,7 +344,15 @@
             "type": 3,
             "api": "csp_LeiJing",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.leijing.xyz",
+                    "https://www.leijing1.com",
+                    "https://leijing1.com"
+                ],
+                "cookie": ""
+            }
         },
         {
             "key": "PanTa",
@@ -387,7 +379,7 @@
                 "site": [
                     "https://www.kfjwzz.com"
                 ],
-                "cookie": "bbs_sid=nqj3m4c3jo14hj61o3mtulmbqm; bbs_token=0DJ_2FBrXm3SPQ2qtwzIJd70iM_2BK02F_2BYOzTNOUy4TquXt5l4J"
+                "cookie": ""
             }
         },
         {
@@ -693,13 +685,25 @@
             }
         },
         {
+            "key": "Sir88",
+            "name": "超全｜体育",
+            "type": 3,
+            "api": "csp_Sir88",
+            "searchable": 0,
+            "filterable": 1,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "TingBook",
             "name": "六月｜有声",
             "type": 3,
             "api": "csp_TingBook",
             "searchable": 1,
             "indexs": 0,
-            "ext": "http://www.5weiting.com",
+            "ext": "https://app.365ting.com",
             "style": {
                 "type": "list"
             }

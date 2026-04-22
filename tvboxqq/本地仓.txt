@@ -8,9 +8,9 @@
 
 { "url": "clan://localhost/tvboxqq/OK/api.json", "name": "OK" },
 
-{ "url": "clan://localhost/tvboxqq/潇洒/api.json", "name": "潇洒" },
-
 { "url": "clan://localhost/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "clan://localhost/tvboxqq/潇洒/api.json", "name": "潇洒" },
 
 { "url": "clan://localhost/tvboxqq/小虎斑/api.json", "name": "小虎斑" },
 

@@ -1,4 +1,4 @@
-﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
+﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
     "spider": "./spider.jar",
@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "弹幕大更新，修复所有源！新公众号【太太太硬了】",
+            "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -67,7 +67,7 @@
         },
         {
             "key": "seed",
-            "name": "💡聚剧剧┃三盘",
+            "name": "💡聚剧剧┃四盘",
             "type": 3,
             "api": "csp_SeedhubGuard",
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -81,14 +81,14 @@
         },
         {
             "key": "ZPan",
-            "name": "🎈聚盘搜┃三盘",
+            "name": "🎈聚盘搜┃四盘",
             "type": 3,
             "api": "csp_S_zpsGuard",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://38.55.131.86:82/"
+                "siteUrl": "http://107.148.176.74:8383/"
             },
             "indexs": 0,
             "style": {
@@ -172,6 +172,16 @@
             "changeable": 1
         },
         {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "热播",
             "name": "📺热播┃多线",
             "type": 3,
@@ -184,16 +194,6 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "糯米",
-            "name": "🍓糯米┃多线",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
             "type": 3,
@@ -202,29 +202,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         {
             "key": "光影",
             "name": "🌞光影┃多线",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFxdCFsq+gvTWZ1sP1yzpkeoroQVYOZVlfpWUluKg1buFZwtJ5rmyCc81Gmm8l/S04VuIrB86duuDCHzDyAuvJgrr/FHH2zVFwcxAPv9axAVykEdoeQsdmsmBBVn6tRqGr8mrgSsRJijosUED4R2Xtk85EH548sG1Nbeo1PopGfRA7qeqjvsiagEdQQNFEFrDlXmXCbNzngfHUufLOOtGXYSYrfQ5KDQ0KZPIYt7ZALHJ+jMwWyPNP6zpvtA=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
         },
         {
             "key": "视界",
             "name": "🍙视界┃多线",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI+4lWpuLce9V0IYMxpf6yxk9eNgZeUKx9NtuGiHL8VT2Ch5q3FzA/wpUpTequjCAiOuXKzelf2sV2H63VJyZQ4c7pP8BFS7Fs0PEY8l0RhZXAOtNtyr8hvgS7hJiUAsUDP4QRvtkbFEb5s8uhxNaug1QfpGf2o72OyjvreagTpQQNBEaLPlXB3CE6LnhIbUuoXOOtSXE1grCABKC38KFogYurdAWX9+j7EWxPpX3A=="
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
         },
         {
             "key": "花花",
@@ -246,7 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7UkwYMxpf9CY77fshcekBhdA642OKKsMYzDZl6C04VuIpAozGrejSUw=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
         },
         {
             "key": "爱影",
@@ -257,7 +257,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kvDImBOA4Uobe87udCDvyRKfZx+2mS22nhAooKRgLo9y7UE+qFZ1UBoc16Q=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv"
         },
         {
             "key": "猫猫",
@@ -268,7 +268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
         },
         {
             "key": "奥特",
@@ -335,7 +335,7 @@
         },
         {
             "key": "88",
-            "name": "⚽88┃看球",
+            "name": "⚽八八┃看球",
             "type": 3,
             "api": "csp_Sir88Guard",
             "timeout": 10,
@@ -347,16 +347,15 @@
         },
         {
             "key": "超全",
-            "name": "⚽超全┃看球",
+            "name": "⚽吃瓜┃看球",
             "type": 3,
-            "api": "csp_ZbzGuard",
+            "api": "csp_LiveGzGuard",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "style": {
                 "type": "list"
-            },
-            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+            }
         },
         {
             "key": "看球",
@@ -470,7 +469,7 @@
         },
         {
             "key": "米搜",
-            "name": "🦋米搜┃优夸",
+            "name": "🦋米搜┃夸嘟",
             "type": 3,
             "api": "csp_MIPanSoGuard",
             "searchable": 1,
@@ -485,6 +484,18 @@
             "name": "🐟盘她┃夸父",
             "type": 3,
             "api": "csp_YpanSoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+        {
+            "key": "BpanSo",
+            "name": "🐞盘他┃嘟嘟",
+            "type": 3,
+            "api": "csp_BpanSoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -630,6 +641,21 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
+        }
+    ],
+    "rules": [
+        {
+            "name": "cdn.ryplay",
+            "hosts": [
+                "cdn.ryplay"
+            ],
+            "regex": [
+                "5.480000",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
         }
     ],
     "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",

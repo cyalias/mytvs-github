@@ -1,4 +1,4 @@
-﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
+﻿//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
     "wallpaper": "https://wp.upx8.com/api.php",
@@ -145,15 +145,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_LiteApple",
-            "name": "🐞小苹果影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "csp_Bdys",
@@ -406,17 +397,6 @@
             "ext": "./json/农民影视.json"
         },
         {
-            "key": "csp_XYQHiker_剧圈圈",
-            "name": "🌟剧圈圈(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/剧圈圈.json",
-            "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
-        },
-        {
             "key": "csp_XYQHiker_骚火电影VIP",
             "name": "🔥骚火电影VIP(XYQH)",
             "type": 3,
@@ -425,16 +405,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/骚火电影VIP.json"
-        },
-        {
-            "key": "csp_XYQHiker_爱看影视",
-            "name": "👀爱看影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/爱看影视.json"
         },
         {
             "key": "csp_XYQHiker_爱看电影",
@@ -475,16 +445,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/好影快看.json"
-        },
-        {
-            "key": "csp_XYQHiker_来看点播",
-            "name": "⛅️来看点播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/来看点播.json"
         },
         {
             "key": "drpy_js_金牌",
@@ -850,13 +810,17 @@
         {
             "name": "1080zyk",
             "hosts": [
-                "high24-playback",
-                "high20-playback",
+                "-playback",
                 "yzzy.play",
+                "cdn.yzzy",
                 "yzzy-dy"
             ],
             "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "16.63",
+                "16.45",
+                "16.46",
                 "17.66"
             ]
         },

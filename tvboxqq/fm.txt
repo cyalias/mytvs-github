@@ -8,9 +8,9 @@
 
 { "url": "file://tvboxqq/OK/api.json", "name": "OK[本地]" },
 
-{ "url": "file://tvboxqq/潇洒/api.json", "name": "潇洒[本地]" },
-
 { "url": "file://tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿[本地]" },
+
+{ "url": "file://tvboxqq/潇洒/api.json", "name": "潇洒[本地]" },
 
 { "url": "file://tvboxqq/小虎斑/api.json", "name": "小虎斑[本地]" },
 

@@ -45,46 +45,6 @@
       ]
     }
   ],
-  "tv_hot": [
-    {
-      "key": "type",
-      "name": "分类",
-      "value": [
-        {
-          "n": "综合",
-          "v": "tv_hot"
-        },
-        {
-          "n": "国产剧",
-          "v": "tv_domestic"
-        },
-        {
-          "n": "欧美剧",
-          "v": "tv_american"
-        },
-        {
-          "n": "日剧",
-          "v": "tv_japanese"
-        },
-        {
-          "n": "韩剧",
-          "v": "tv_korean"
-        },
-        {
-          "n": "动画",
-          "v": "tv_animation"
-        },
-        {
-          "n": "综艺",
-          "v": "tv_variety_show"
-        },
-        {
-          "n": "泰剧",
-          "v": "tv_thai"
-        }
-      ]
-    }
-  ],
   "anime": [
     {
       "key": "类型",
@@ -239,12 +199,12 @@
       "name": "排序",
       "value": [
         {
-          "n": "近期热度",
-          "v": "T"
-        },
-        {
           "n": "首播时间",
           "v": "R"
+        },
+        {
+          "n": "近期热度",
+          "v": "T"
         },
         {
           "n": "高分优先",
@@ -307,26 +267,6 @@
         {
           "n": "更早",
           "v": "更早"
-        }
-      ]
-    }
-  ],
-  "show_hot": [
-    {
-      "key": "type",
-      "name": "分类",
-      "value": [
-        {
-          "n": "综合",
-          "v": "show_hot"
-        },
-        {
-          "n": "国内",
-          "v": "show_domestic"
-        },
-        {
-          "n": "国外",
-          "v": "show_foreign"
         }
       ]
     }
@@ -1297,20 +1237,36 @@
           "v": "movie_real_time_hotest"
         },
         {
-          "n": "一周口碑电影榜",
-          "v": "movie_weekly_best"
-        },
-        {
-          "n": "豆瓣电影Top250",
-          "v": "movie_top250"
-        },
-        {
           "n": "正在热映",
           "v": "movie_showing"
         },
         {
           "n": "即将上映",
           "v": "movie_soon"
+        },
+        {
+          "n": "经典电影",
+          "v": "movie_classic"
+        },
+        {
+          "n": "最新电影",
+          "v": "movie_latest"
+        },
+        {
+          "n": "科幻佳片",
+          "v": "movie_scifi"
+        },
+        {
+          "n": "喜剧佳片",
+          "v": "movie_comedy"
+        },
+        {
+          "n": "动作佳片",
+          "v": "movie_action"
+        },
+        {
+          "n": "爱情佳片",
+          "v": "movie_love"
         }
       ]
     }
@@ -1320,10 +1276,6 @@
       "key": "榜单",
       "name": "榜单",
       "value": [
-        {
-          "n": "实时热门电视",
-          "v": "tv_real_time_hotest"
-        },
         {
           "n": "华语口碑剧集榜",
           "v": "tv_chinese_best_weekly"
@@ -1339,10 +1291,6 @@
         {
           "n": "国外口碑综艺榜",
           "v": "show_global_best_weekly"
-        },
-        {
-          "n": "国产剧集榜",
-          "v": "tv_domestic_best_weekly"
         }
       ]
     }
