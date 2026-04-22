@@ -15,3 +15,8 @@
 "lives":[
 {"name":"CyaliasLive","type":0,"url":"https://mytvs.cyalias.me/mytv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/{name}.png","epg": "https://myepg.cyalias.me/api/v1?ch={name}&date={date}"}
 ],
+
+
+
+# M3U/TXT格式转换工具
+https://map.wemtime.com/htmltools/m3utxtchange.html
