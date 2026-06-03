@@ -74,22 +74,22 @@
             "ext": "DyoqWQInJUMuGFdcDzo2Bjg3KgUuDwoENzYhHDhdUQEuUzRBDVAfHzsCBA8DJgYFDTFNHgAnKUg"
         },
         {
+            "key": "巴士",
+            "name": "巴士|弹幕",
+            "type": 3,
+            "api": "csp_Dm84"
+        },
+        {
             "key": "全网",
             "name": "全网|短剧",
             "type": 4,
-            "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
+            "api": "http://38.76.197.172:15151/duanju.php?type=dquark"
         },
         {
             "key": "B站直播",
             "name": "B站|直播",
             "type": 3,
             "api": "csp_BilibiliLive"
-        },
-        {
-            "key": "聚合",
-            "name": "聚合|在线",
-            "type": 3,
-            "api": "csp_HBlive"
         },
         {
             "key": "静月",
@@ -112,7 +112,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
                 "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
                 "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
-                "site": "http://154.222.27.33:20720/"
+                "site": "http://38.76.197.172:16969/"
             }
         },
         {
@@ -122,7 +122,7 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "site": "http://154.201.83.50:12512/"
+                "site": "http://38.76.197.172:12521/"
             }
         },
         {
@@ -221,71 +221,37 @@
             "key": "xunlei",
             "name": "迅雷|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=xunlei"
+            "api": "http://38.76.197.172:15151/api.php?type=xunlei"
         },
         {
             "key": "123",
             "name": "123|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=123"
+            "api": "http://38.76.197.172:15151/api.php?type=123"
         },
         {
             "key": "夸克推送",
             "name": "夸克|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=quark"
+            "api": "http://38.76.197.172:15151/api.php?type=quark"
         },
         {
             "key": "优惜",
             "name": "优惜|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=uc"
+            "api": "http://38.76.197.172:15151/api.php?type=uc"
         },
         {
             "key": "百度",
             "name": "百度|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=baidu"
+            "api": "http://38.76.197.172:15151/api.php?type=baidu"
         },
         {
             "key": "天翼",
             "name": "天翼|推送",
             "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
-        },
-        {
-            "key": "茶壶",
-            "name": "茶壶|弹幕",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_HBCupfox"
-        },
-        {
-            "key": "房源",
-            "name": "房源|弹幕",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_HBgetapp",
-            "ext": {
-                "host": "https://fyys9.fytd.top/",
-                "appkey": "88689667dce61725",
-                "appiv": "88689667dce61725"
-            }
-        },
-        {
-            "key": "奇奇",
-            "name": "奇奇|弹幕",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_HBgetapp",
-            "ext": {
-                "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/b.txt",
-                "appkey": "123456789abcdefg",
-                "appiv": "123456789abcdefg"
-            }
+            "api": "http://38.76.197.172:15151/api.php?type=tianyi"
         },
         {
             "key": "茉莉",
@@ -312,38 +278,6 @@
                 "appkey": "#getapp@TMD@2025",
                 "appiv": "#getapp@TMD@2025"
             }
-        },
-        {
-            "key": "魔方",
-            "name": "魔方|4K弹幕",
-            "type": 3,
-            "api": "csp_HBgetapp",
-            "ext": {
-                "host": "https://snysw.xyz/mf4kzs327.txt",
-                "key": "MTIzNDU2Nzg4NzY1NDMyMQ==",
-                "iv": "MTIzNDU2Nzg4NzY1NDMyMQ=="
-            }
-        },
-        {
-            "key": "狐狸",
-            "name": "狐狸|4K弹幕",
-            "type": 3,
-            "api": "csp_HBAppfox",
-            "ext": "./json/host.json"
-        },
-        {
-            "key": "景天",
-            "name": "景天|4K弹幕",
-            "type": 3,
-            "api": "csp_HBcms10Dou",
-            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
-        },
-        {
-            "key": "茂茂",
-            "name": "茂茂|4K弹幕",
-            "type": 3,
-            "api": "csp_HBcms10Dou",
-            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
         },
         {
             "key": "小猫",
@@ -429,12 +363,6 @@
             "ext": "0"
         },
         {
-            "key": "低端",
-            "name": "美剧|低端",
-            "type": 3,
-            "api": "csp_HBdiDuan"
-        },
-        {
             "key": "旺旺",
             "name": "旺旺|弹幕",
             "type": 3,
@@ -479,13 +407,6 @@
             "name": "土豆|搜索",
             "type": 3,
             "api": "csp_HBtdou"
-        },
-        {
-            "key": "米饭2",
-            "name": "米饭|弹幕",
-            "type": 3,
-            "api": "csp_HBgetapp",
-            "ext": "eyJob3N0IjoiaHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy8iLCJrZXkiOiJSMFZVVFVsR1ZVNUhSVWxOU1VaVlRnPT0iLCJpdiI6IlIwVlVUVWxHVlU1SFJVbE5TVVpWVGc9PSJ9"
         },
         {
             "key": "dmmiku",
@@ -554,41 +475,6 @@
             }
         },
         {
-            "key": "短剧",
-            "name": "短剧|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/短剧网.json"
-        },
-        {
-            "key": "海纳",
-            "name": "海纳|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/海纳影视.json"
-        },
-        {
-            "key": "咳咳",
-            "name": "可可|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/可可影视.json"
-        },
-        {
-            "key": "面包",
-            "name": "面包|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/面包影视.json"
-        },
-        {
-            "key": "七点",
-            "name": "七点|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/七点影视.json"
-        },
-        {
             "key": "三九",
             "name": "三九|弹幕",
             "type": 3,
@@ -603,25 +489,11 @@
             "ext": "./json/三四影视.json"
         },
         {
-            "key": "骚火",
-            "name": "骚火|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/骚火影视.json"
-        },
-        {
             "key": "雪糕",
             "name": "雪糕|弹幕",
             "type": 3,
             "api": "csp_HBPQ",
             "ext": "./json/雪糕影视.json"
-        },
-        {
-            "key": "樱花",
-            "name": "樱花|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/樱花影视.json"
         },
         {
             "key": "永乐",

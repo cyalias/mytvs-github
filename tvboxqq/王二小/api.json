@@ -7,7 +7,7 @@
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "🐮【公众号：王二小放牛娃】🐮",
+            "name": "🐮【王二小放牛娃】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -17,7 +17,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260416】🐮",
+            "name": "🐮【更新日期:20260526】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -46,7 +46,7 @@
         },
         {
             "key": "二小",
-            "name": "💓‍二小┃4K💓‍",
+            "name": "💓‍指南┃4K💓‍",
             "type": 3,
             "api": "csp_NewErXiaoGuard",
             "searchable": 1,
@@ -358,22 +358,6 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 120
-        },
-        {
-            "key": "BookWuWei",
-            "name": "🎃‍无忧┃听书🎃",
-            "type": 3,
-            "api": "csp_BookWuWeiGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "BookTingShu",
-            "name": "🎃‍精品┃听书🎃",
-            "type": 3,
-            "api": "csp_BookTingShuGuard",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "Book23TingShu",
@@ -715,6 +699,18 @@
             "name": "💓我的┃UC💓‍",
             "type": 3,
             "api": "csp_MyUcPanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "MyGuangYa",
+            "name": "💓我的┃光鸭💓‍",
+            "type": 3,
+            "api": "csp_MyGuangYaGuard",
             "searchable": 1,
             "changeable": 1,
             "timeout": 50,

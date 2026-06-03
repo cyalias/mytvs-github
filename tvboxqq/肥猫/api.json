@@ -3,11 +3,11 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+    "logo": "http://feimao.pro/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃公众号：肥猫宝贝┃",
+            "name": "🐼┃公众号：我不是肥猫┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -28,14 +28,6 @@
             "playerType": 2
         },
         {
-            "key": "living",
-            "name": "🐼┃游戏┃直播",
-            "type": 3,
-            "api": "csp_Living",
-            "playerType": 2,
-            "ext": "https://lemonlive-api-1.deno.dev"
-        },
-        {
             "key": "csp_FeiMaoUC",
             "name": "⚡┃闪电┃优汐",
             "type": 3,
@@ -43,9 +35,13 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "https://shandian.blog/",
-                    "https://sd.sduc.site"
+                    "http://shandian.blog/",
+                    "http://sd.sduc.site/"
                 ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
                 "url_key": "FeiMaoUC"
             }
         },
@@ -57,14 +53,13 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "http://xiaocgege.shop",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "https://feimo.fun",
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
                     "http://www.labi88.sbs",
                     "http://fmao.site",
                     "http://fmao.shop",
-                    "http://xiaocge.fun"
+                    "http://xiaocgege.shop",
+                    "http://www.xiaocgege.shop"
                 ],
                 "threadinfo": {
                     "chunksize": 512,
@@ -81,12 +76,12 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://zhizhen1.top",
-                    "https://mihdr.top",
+                    "https://pan.mihdr.top",
+                    "https://www.zhizhen1.top",
                     "https://www.mihdr.top",
-                    "http://www.miqk.cc",
-                    "https://www.zhizhenpan.fun"
+                    "https://www.miqk.cc",
+                    "https://www.zhizhenpan.com",
+                    "https://www.zhizhen8.click"
                 ],
                 "url_key": "Netfixtv2",
                 "threadinfo": {
@@ -107,56 +102,42 @@
             "name": "🐼┃肥猫┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
+            "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z"
         },
         {
             "key": "干饭",
             "name": "🍚┃干饭┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "http://www.613mf4k12.top|1234567887654321"
+            "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
         },
         {
             "key": "光盘",
             "name": "📀┃光盘┃APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M"
         },
         {
             "key": "行动",
             "name": "😌┃行动┃APP",
             "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://165.99.42.137:5432|1234567890987654"
+            "api": "csp_AppQi",
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
         },
         {
             "key": "再来",
             "name": "✌️┃再来┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://cy.baige.asia|599D0FE5178642FD"
+            "ext": "https://vv.229d.cn|8888888888888888"
         },
         {
             "key": "一碗",
             "name": "🥣┃一碗┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://vv.229d.cn|8888888888888888"
-        },
-        {
-            "key": "猫抓",
-            "name": "🐱┃猫抓┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
             "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-        },
-        {
-            "key": "仓鼠",
-            "name": "🐹┃耗子┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
         },
         {
             "key": "蔬菜",
@@ -166,50 +147,11 @@
             "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
         },
         {
-            "key": "黑猫",
-            "name": "🐼┃黑猫┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://qiyiys.cc|45452893929B40D9"
-        },
-        {
-            "key": "兔子",
-            "name": "🐇┃兔子┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-        },
-        {
             "key": "永永",
             "name": "♾️┃永永┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
-        },
-        {
-            "key": "火猫",
-            "name": "😻┃火猫┃APP",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "K7euwjrJ27dYwEGVkeGRDLiIPbDgofNjwCk3p5BrxKe1WWueWIgazExL7KeqSINJOPRzkplAOtP+hTXxaeVDeOccRBahLmupQ3fYc6ogNk5FiENWm5pQSXsfQ6128/WfOimIH4TLkzA04Y6EFxXaLi3Wtmv9wRqBB7W7abNwXzDNx5lbJf6xgU6KLRt1d4N7NVfZCB6DW2T34TpuYagoWg=="
-        },
-        {
-            "key": "csp_AppSymx",
-            "name": "🏔┃️木兮┃APP",
-            "type": 3,
-            "api": "csp_Symx"
-        },
-        {
-            "key": "csp_AppJg",
-            "name": "🍧┃坚果┃APP",
-            "type": 3,
-            "api": "csp_AppJg"
-        },
-        {
-            "key": "3Q",
-            "name": "3️⃣┃3Q┃APP",
-            "type": 3,
-            "api": "csp_App3Q"
+            "ext": "https://444421.xyz|#getapp@TMD@2025|120"
         },
         {
             "key": "csp_Jpys",
@@ -248,15 +190,6 @@
             "playerType": 2
         },
         {
-            "key": "csp_LiteApple",
-            "name": "🍎┃苹果┃影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "厂长",
             "name": "🏭┃厂长┃影视",
             "type": 3,
@@ -265,27 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.cz01.org"
-        },
-        {
-            "key": "csp_AppXY",
-            "name": "🎀️┃星牙┃短剧",
-            "type": 3,
-            "api": "./api/XYDJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "📺┃︎剧王┃短剧",
-            "name": "📺┃剧王┃短剧",
-            "type": 3,
-            "api": "./api/JWDJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://www.czzy89.com"
         },
         {
             "key": "csp_SP360",
@@ -317,11 +230,18 @@
             "ext": "https://dm84.net"
         },
         {
-            "key": "丫丫",
-            "name": "🐷┃丫丫┃动漫",
+            "key": "方舟",
+            "name": "🐷┃方舟┃动漫",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
+            "ext": "https://www.cyfz.top|e72cdfd629e8895d"
+        },
+        {
+            "key": "番薯",
+            "name": "🍠┃番薯┃动漫",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"
         },
         {
             "key": "csp_FirstAid",

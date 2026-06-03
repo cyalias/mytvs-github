@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
@@ -10,11 +10,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226623/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8?icpid=88888888&servicetype=1
@@ -22,11 +22,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8?icpid=88888888&servicetype=1
@@ -34,45 +34,45 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226483/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV15.png",CCTV15
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8?icpid=88888888&servicetype=1
@@ -90,11 +90,11 @@ http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226499/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226623/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226306/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226466/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226308/index.m3u8?icpid=88888888&servicetype=1
@@ -102,11 +102,11 @@ http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226308/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226461/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226303/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226468/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226656/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226305/index.m3u8?icpid=88888888&servicetype=1
@@ -114,45 +114,45 @@ http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226305/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226487/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226635/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226477/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226609/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226485/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226637/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226486/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226678/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226484/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226687/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226482/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226726/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226483/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226481/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226479/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226480/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226475/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV15.png",CCTV15
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226478/index.m3u8?icpid=88888888&servicetype=1
@@ -162,33 +162,33 @@ http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226473/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/10000100000000060000000008219383_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226970/10000100000000060000000008219358_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/10000100000000060000000008219368_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226923/10000100000000060000000008219378_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226921/10000100000000060000000008219380_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/10000100000000060000000008219343_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226937/10000100000000060000000008219364_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226935/10000100000000060000000008219366_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226972/10000100000000060000000008219356_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226941/10000100000000060000000008219362_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226952/10000100000000060000000008219375_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226950/10000100000000060000000008219377_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226956/10000100000000060000000008219372_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/10000100000000060000000008219381_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/10000100000000060000000008219370_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV15.png",CCTV15
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/10000100000000060000000008071943_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
@@ -196,53 +196,53 @@ http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/10000100000000060
 http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/10000100000000060000000008219374_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV1.png",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV2.png",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV3.png",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4.png",CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5.png",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV5+.png",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV6.png",CCTV6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV7.png",CCTV7
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8.png",CCTV8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV9.png",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV10.png",CCTV10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV11.png",CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV12.png",CCTV12
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV13.png",CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV14.png",CCTV14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV15.png",CCTV15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV16
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV16.png",CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV17.png",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV4K.png",CCTV4K
 http://192.168.31.9:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8K
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV8K.png",CCTV8K
 http://192.168.31.9:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV16-4K
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV16-4K.png",CCTV16-4K
 http://192.168.31.9:35455/gaoma/cctv4k16.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV1
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CETV1.png",CETV1
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV1
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CETV1.png",CETV1
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV1
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CETV1.png",CETV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV1
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CETV1.png",CETV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CGTN.png",CGTN
 http://192.168.31.9:35455/gaoma/cgtnen.m3u8
