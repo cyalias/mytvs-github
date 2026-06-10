@@ -76,6 +76,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8?icpid
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV15.png",CCTV15
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8?icpid=88888888&servicetype=1
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV16.png",CCTV16
+http://183.129.255.66:8480/hls/17/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV17.png",CCTV17
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/CCTV17.png",CCTV17
@@ -252,8 +254,6 @@ http://192.168.31.9:35456/jump?url=http%3A%2F%2F192.168.31.9%3A35455%2Fgaoma%2Fc
 http://192.168.31.9:35455/gaoma/cgtndoc.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Beijing9.png",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",河南卫视4K实验
-http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Henan.png",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Henan.png",河南卫视
@@ -266,18 +266,6 @@ http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226938/10000100000000060
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Henan.png",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226639/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Anhui.png",安徽卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://mygit.cyalias.me/cyalias/live-fanmingming/raw/commit/ef3d9e1c61dcafcda325413e8cd18685908be43b/tv/Anhui.png",安徽卫视
